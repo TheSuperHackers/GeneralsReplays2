@@ -1,0 +1,22 @@
+Name: Toxic Nightmare 1.1 (Revised)
+Author: Falsadoom
+File Size: 100k
+Description: C&C Generals 8 player skirmish map
+Author's Email: [email redacted]
+
+{1.1 includes further playtesting enhancements and a few bug fixes as well as general tweaking to zones and positions to furhter improve AAI gameplay}
+
+
+This was my first map (Designed during the first week of war in Iraq 2003) learning the editor and more importantly, how the A.I. and game functions with a given map depending on how you design it.
+
+This map was angled at multiplay and 1 player versus 8. I wanted to include some surreal symbology for a change of pace.
+
+You will notice the AI is quite a bit more aggressive (capable) with flat land, plenty of room to build, and resources to fuel the war machine. As the game progresses expect large scale battles.
+
+The center of the map was designed to give players a way to tip the scales if falling behind by using the features in a tactical way. 
+
+Falsadoom/Mortesaur
+
+p.s. Feel free to distribute at will without alterations.
+
+Old Continent is the suck! =p

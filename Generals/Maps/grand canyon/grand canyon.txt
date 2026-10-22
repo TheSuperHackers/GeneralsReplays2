@@ -1,0 +1,3 @@
+author: romuald martin
+description:war in grand canyon
+nb of players: 3
