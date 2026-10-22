@@ -1,0 +1,28 @@
+SCRIPT:Coundown0
+"Time To First Wave :"
+End
+
+SCRIPT:Coundown1
+"Next Ground Wave time :"
+End
+
+SCRIPT:Coundown2
+"Next Air Strike time  :"
+End
+
+SCRIPT:Coundown3
+"Next Wing Attack time :"
+End
+
+SCRIPT:Coundown4
+"Time to Sneak Attack :"
+End
+
+SCRIPT:Coundown5
+"Time to END :"
+End
+
+
+SCRIPT:CountdownT
+"Time to TEST :"
+End

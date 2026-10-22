@@ -1,0 +1,17 @@
+
+
+SCRIPT: Round
+"Round:"
+END
+
+SCRIPT: Zombie amount
+"Max Zombies This Round:"
+END
+
+SCRIPT: ZombieQueue
+"Zombies Absorbed:"
+END
+
+SCRIPT: BankMoney
+"Money In the Bank:"
+END

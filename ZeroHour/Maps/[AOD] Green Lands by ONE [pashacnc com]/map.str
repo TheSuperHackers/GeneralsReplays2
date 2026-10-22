@@ -1,0 +1,60 @@
+01
+"AOD GreenLands \n Defend Your Bases And The Middle Roads \n This Map Is Created By ONE. on Oktober 10th, 2020 \n My Discord: AliR#3642."
+END
+
+02
+"The Waves Are Random \n Depending On Your Luck It Will Be Either Easy Or Hard \n Good Luck!"
+END
+
+Victory
+"Victory! Please Consider Youself Awesome!
+\n Feedbacks? Bug Reports? >>>>> My Discord: AliR#3642."
+END
+
+SCRIPT:ShowWave1
+"Wave 1 Will Be IN"
+END
+
+SCRIPT:ShowWave2
+"Wave 2 Will Be IN"
+END
+
+SCRIPT:ShowWave3
+"Wave 3 Will Be IN"
+END
+
+SCRIPT:ShowWave4
+"Wave 4 Will Be IN"
+END
+
+SCRIPT:ShowWave5
+"Wave 5 Will Be IN"
+END
+
+SCRIPT:ShowWave6
+"Wave 6 Will Be IN"
+END
+
+SCRIPT:ShowWave7
+"Wave 7 Will Be IN"
+END
+
+SCRIPT:ShowWave8
+"Wave 8 Will Be IN"
+END
+
+SCRIPT:ShowWave9
+"Wave 9 Will Be IN"
+END
+
+SCRIPT:ShowWave10
+"Wave 10 Will Be IN"
+END
+
+
+SCRIPT:Victory
+"Victory In"
+END
+
+
+

@@ -1,0 +1,62 @@
+Text01
+"Survive Until Timer Runs."
+END
+
+Text02
+"This Map Is Created By ONE. Finished On 24.July.2020.
+\n My Discord: AliR#3642."
+END
+
+Alert01
+"Alert!!!
+\n Incoming GLA Waves... !"
+END
+
+Alert02
+"Alert!!!
+\n Incoming GLA Waves... !"
+END
+
+Alert03
+"Alert!!!
+\n Incoming GLA Waves... !"
+END
+
+Alert04
+"Alert!!!
+\n Incoming GLA Waves... !"
+END
+
+Alert05
+"Alert!!!
+\n Incoming GLA Waves... !"
+END
+
+Alert06
+"Alert!!!
+\n Incoming GLA Waves... !"
+END
+
+Alert07
+"Alert!!!
+\n Incoming GLA Waves... !"
+END
+
+Alert08
+"Alert!!!
+\n Incoming GLA Waves... !"
+END
+
+Alert09
+"Alert!!!
+\n Incoming GLA Waves... !"
+END
+
+Alert10
+"Alert!!!
+\n Incoming GLA Waves... !"
+END
+
+SCRIPT:ShowText
+"You Will Win In"
+END

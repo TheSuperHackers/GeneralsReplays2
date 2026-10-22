@@ -1,0 +1,112 @@
+text01easy
+"Welcome to: Art of Defence - TRINITY by evanz1987.
+\n 2 PLAYER DIFFICULTY = 4 MINS TO BUILD"
+END
+
+text01medium
+"Welcome to: Art of Defence - TRINITY by evanz1987.
+\n MEDIUM DIFFICULTY = 2 MINS TO BUILD"
+END
+
+text01hard
+"Welcome to: Art of Defence - TRINITY by evanz1987.
+\n BRUTAL DIFFICULTY = 1 MIN TO BUILD
+\n Are you feeling lucky? .............punk?"
+END
+
+Pasha1
+"AOD TRINITY by evanz1987 beta map  edited and completed by Pasha on July 2018"
+END
+
+Pasha2
+"AOD TRINITY by evanz1987 Final Edit by Pasha map fixed again by Pasha on Jan 2021.
+\n  Final wave fixed by Pasha on Aug 2021."
+END
+
+Pasha3
+"You can download AOD maps from pashacnc.com"
+END
+
+wave01
+"WAVE 1/18
+\n GET READY!"
+END
+
+wave02
+"WAVE 2/18"
+END
+
+wave03
+"WAVE 3/18"
+END
+
+wave04
+"WAVE 4/18"
+END
+
+wave05
+"WAVE 5/18"
+END
+
+wave06
+"WAVE 6/18"
+END
+
+wave07
+"WAVE 7/18"
+END
+
+wave08
+"WAVE 8/18"
+END
+
+wave10
+"WAVE 10/18"
+END
+
+wave11
+"WAVE 11/18"
+END
+
+wave12
+"WAVE 12/18"
+END
+
+wave13
+"WAVE 13/18
+\n Stealth Fighters are on their ways"
+END
+
+wave14
+"WAVE 14/18
+\n Comanches, Chinooks and Stealth Fighters"
+END
+
+wave15
+"WAVE 15/18
+\n Too Many Chinooks"
+END
+
+wave16
+"WAVE 16/18
+\n A10s and Stealth Fighters are coming together"
+END
+
+wave17
+"WAVE 17/18
+\n c'mmon B.itches"
+END
+
+final
+"FINAL WAVE
+\n The Chinooks, M.fkers"
+END
+
+win01
+"Good Job! You have defeated Art of Defence TRINITY by evanz1987!!   GG"
+END
+
+lose01
+"Haha! Nice try but you FAILED!! ..RE?
+\n MORE GATTLINGS NEXT TIME!"
+END

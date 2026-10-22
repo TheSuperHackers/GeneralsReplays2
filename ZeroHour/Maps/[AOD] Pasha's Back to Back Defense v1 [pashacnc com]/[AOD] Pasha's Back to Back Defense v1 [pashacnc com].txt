@@ -1,0 +1,53 @@
+Map Name: 	AOD Pasha's Back to Back Defense
+Date	: 	September 2017
+Author Name: 	Pasha
+Author Mail: 	[email redacted]
+Author Website:	[url redacted] for AOD Maps
+Max. Players:	2
+Game:		C&C Generals: Zero Hour
+Type of Map: 	Art Of Defense (AOD)
+Description: 	Players will try to survive on Pasha's Back to Back Defense Battlefield against GLA attacks.
+
+This AOD map for 2 players vs 1 AI (GLA),
+AI must be GLA and place at lower right corner.
+There are 2 bases, each base has 2 supply pile that each one has 100.000 $.
+
+Players have 3 options for difficulty of map as Easy, Medium and Hard Army depending their skill.
+
+If Players select Easy Army (recommanded for beginners) ;
+There are 9 ground waves only with 120 sec periods.
+There is not air, wing and sneak attacks and it makes map boring. Beginners can practice.
+
+If Players Select Normal Army (recommanded for good players)
+There are 9 Ground Waves, 3 Air Strikes and 3 Attacks with 60  seconds periods.
+
+If Players select Hard Army (recommanded for Proplayers)
+There are 9 Ground Waves, 3 Air Strikes and 3 Strong WingAttacks  and 2 Fatal Sneak Attacks with 60  seconds periods. 
+Plus all AI Units maximum upgraded to give more pains to Proplayers.
+
+Waves, Strikes and Attacks Are Random. Each Has 3 Random Alternatives. 
+It Means, Different AI Teams may attack Each Play. 
+
+WIN; 
+Both Players must Survive And Kill All AI Units on Battlefield Until Time To End Timer become "00:00".
+
+LOOSE;
+If A player is Defeated or Players can't Kill All AI Units on Battlefield Until Time To End Timer become "00:00".
+
+Please do not hesitate to contact with me about bugs and my mistakes on map. 
+
+" YOU CAN DOWNLOAD AOD MAPS FROM [url redacted] "
+ 
+I wish you goodluck and have fun Generals.
+
+Regards, 
+Pasha
+
+Revision V01: 29 May 2019
+Camera Zoom modified
+AI units upgrades modified
+HS2 modified
+Some Bugs fixed
+
+
+e-mail;[email redacted]

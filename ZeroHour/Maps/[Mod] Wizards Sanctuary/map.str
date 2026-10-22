@@ -1,0 +1,33 @@
+INTRO
+"Wizards Sanctuary\n
+Created by shauffhausen"
+End
+
+INTRO2
+"Wizard Notes\n
+Wizards are safe inside the wells\n
+Wells give vision of all castles\n
+Wizards activate well money"
+End
+
+INTRO3
+"Castle Notes\n
+Each castle will reveal a new army every 4 minutes\n
+Use your Wizards at ANY castle to claim them!"
+End
+
+NextArmy
+"New army choices are available!"
+End
+
+NextWizard
+"Wizards Spawning!"
+End
+
+SCRIPT: Time Remaining
+"Next Army: "
+End
+
+SCRIPT: Wizard Spawn
+"Next Wizard: "
+End

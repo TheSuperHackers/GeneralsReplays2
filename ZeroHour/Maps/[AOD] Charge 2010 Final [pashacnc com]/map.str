@@ -1,0 +1,155 @@
+SCRIPT:CounterWave
+"Wave:"
+END
+
+SCRIPT:CounterTime
+"Wave arriving in:"
+END
+
+SCRIPT:CounterTimeBoss
+"BOSS arriving in:"
+END
+
+SCRIPT:CounterTimeAT
+"Attention:"
+END
+
+boss come
+"BOSS COME:"
+END
+
+Wave1
+"Wave 1"
+END
+
+Wave2
+"Wave 2"
+END
+
+Wave3
+"Wave 3"
+END
+
+Wave4
+"Wave 4"
+END
+
+Wave5
+"Wave 5"
+END
+
+Wave6
+"Wave 6"
+END
+
+Wave7
+"Wave 7"
+END
+
+Wave8
+"Wave 8"
+END
+
+Wave9
+"Wave 9"
+END
+
+Wave10
+"Wave 10"
+END
+
+Wave11
+"Wave 11"
+END
+
+Wave12
+"Wave 12"
+END
+
+Wave13
+"Wave 13"
+END
+
+Wave14
+"Wave 14"
+END
+
+Wave15
+"Wave 15"
+END
+
+Wave16
+"Wave 16"
+END
+
+Wave17
+"Wave 17"
+END
+
+Good luck
+"Good luck, General!"
+END
+
+Warning
+"Warning! Must destroy all the armored units!"
+END
+
+Congratulations
+"Congratulations! You WIN!!!"
+END
+
+GAME OVER
+"GAME OVER!"
+END
+
+ready
+"BOSS: - Are you ready!?"
+END
+
+Attention!
+"Attention!"
+END
+
+Tip
+"Tip: use the train for transport units"
+END
+
+Easy
+"Level of difficulty: Easy"
+END
+
+Normal
+"Level of difficulty: Normal"
+END
+
+HARD
+"Level of difficulty: HARD"
+END
+
+lucky
+"Mmm.. you lucky today!"
+END
+
+Ohhh
+"Ohhh... remaining 25% to the main purpose!!!"
+END
+
+50
+"Remaining 50% to the main purpose!"
+END
+
+75
+"Remaining 75% to the main purpose!"
+END
+
+25
+"remaining 25% to the main purpose!"
+END
+
+Welcom
+"Welcom General! Map 'AOD Charge' by Rus.51|Max / [Easy]wWw, 2010"
+END
+
+Good
+"Mmm.. not bad.. now BOSS wants to fight with you"
+END

@@ -1,0 +1,32 @@
+INTRO
+"Money Fields Reloaded\n
+Created by shauffhausen"
+End
+
+Instructions1
+"Place ground units on Money Fields to make money"
+End
+
+Instructions2
+"Purchase Wizards from Money Field fountains to make extra money\n
+Send Wizards back into fountains for 100% refund"
+End
+
+Instructions3
+"There is a x2 Money Field multiplier in the middle!"
+End
+
+Instructions4
+"Have fun!"
+End
+
+CONTROLBAR:ToolTipWizard
+"Earns $10/second (1 Black Market)\n
+Send Wizards back into fountains for full refund\n
+Fountains = Tunnel networks for Wizards\n
+50 Wizards max per player"
+END
+
+CONTROLBAR:ConstructWizard
+"Money Field Wizard"
+END

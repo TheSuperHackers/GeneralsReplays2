@@ -1,0 +1,68 @@
+Status_SP_H
+"Loading:
+\n ....Map: Call of Dragon
+\n ...Mode: Singleplayer
+\n ..Level: Hard"
+END
+
+Status_SP_N
+"Loading:
+\n ....Map: Call of Dragon
+\n ...Mode: Singleplayer
+\n ..Level: Normal"
+END
+
+Status_SP_E
+"Loading:
+\n ....Map: Call of Dragon
+\n ...Mode: Singleplayer
+\n ..Level: Easy"
+END
+
+Status_COOP_H
+"Loading:
+\n ....Map: Call of Dragon
+\n ...Mode: CO-OP
+\n ..Level: Hard"
+END
+
+Status_COOP_N
+"Loading:
+\n ....Map: Call of Dragon
+\n ...Mode: CO-OP
+\n ..Level: Normal"
+END
+
+Status_COOP_E
+"Loading:
+\n ....Map: Call of Dragon
+\n ...Mode: CO-OP
+\n ..Level: Easy"
+END
+
+Wrong_Setup
+"WRONG SETUP
+\n Correct: 
+\n .....as: GLA
+\n .....vs: CHI"
+END
+
+Briefing CIA
+"CIA: Rumors were right! There is a mysterious Weapon! 'Call of Dragon'"
+END
+
+Briefing Flag
+"When you hear the sirens wail, the flag has been captured for reinforcements!"
+END
+
+Objective1
+"Objective: Capture The Flag!"
+END
+
+Objective2
+"Objective: Go to the abandoned Base in the North-East!"
+END
+
+Objective3
+"Objective: Eliminate The Chineese Base at the Coastline!"
+END

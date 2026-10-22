@@ -1,0 +1,39 @@
+exitwrongspot
+"WRONG SPOTS have been chosen!!!
+\n Players have to start from the bottom corner of the map!"
+End
+
+exitwrongarmy
+"WRONG ARMY! COMP must be CHINA!!!
+\n Try again with CHINA as army for COMP!"
+End
+
+burton_dies
+"Noooooooo! Col. Burton must survive!!!
+\n He is the key to win this!
+\n Try again!"
+End
+
+location
+"Muan, South-Korea
+\n Secret US Military Base"
+End
+
+Missioninfo
+"Mission:
+\n Burton must find and free our pilots!
+\n Hurry up! Sir!"
+End
+
+newmission
+"New Mission:
+\n Kill all enemies and their Base!
+\n Good Luck!"
+End
+
+credits
+"Credits:
+\n Map created by: issy a.k.a. El_Chapo
+\n Special Thanks to Lithium for help!
+\n www.generals-maps.com [Year 2020]"
+End

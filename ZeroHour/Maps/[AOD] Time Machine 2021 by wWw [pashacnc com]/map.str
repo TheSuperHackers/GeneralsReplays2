@@ -1,0 +1,64 @@
+SCRIPT: Next wave
+"NEXT WAVE IN:"
+END
+
+SCRIPT: Game start
+"GAME START IN:"
+END
+
+SCRIPT: Game over
+"GAME OVER:"
+END
+
+SCRIPT: Electrical overload
+"Electrical overload in:"
+END
+
+kill time machine
+"Congratulations, Generals! \n But now 'Time Machine' has opened portal and enemies will soon come through it \n Destroy 'Time machine before time runs out'"
+END
+
+intro1
+"I'm here! Ready to blow up the time machine"
+END
+
+intro2
+"Oh no! Mission failed! Go to plan B!"
+END
+
+
+good luck
+"<<<<Press 'H' button>>>>!"
+END
+
+start1
+"Hi generals! The enemies got too close! \n Don't let them destroy the last 'Time Machine'"
+END
+
+start2
+"Map 'Time Machine' by wWw, 2021! \n Good Luck \n STAY AT HOME"
+END
+
+easy
+"Difficulty level: Easy \n 100k money and slow attack times"
+END
+
+normal
+"Difficulty level: Normal \n 100k money and normal attack times \n For PRO"
+END
+
+hard
+"Difficulty level: HARD \n 50k money and fast attack times \n For Experts"
+END
+
+intro skipped - press H
+"<<<<Press 'H' button>>>> \n intro skipped"
+END
+
+hint
+"Kill The BOSS to stop spam enemy waves attack \n Remember - 1 boss - 1 side!"
+END
+
+win
+"GOOD JOB, Generals! You have saved the Earth!"
+END

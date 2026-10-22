@@ -1,0 +1,54 @@
+wrongsetup
+"Wrong Setup General! 
+\n It is GLA vs USA AirForce, from West to East!!!
+\n Try again with correct setup!"
+End
+
+location
+"Location: Khuzestan, Iran
+\n Hostile Occupied Zone"
+End
+
+missioninfo
+"Brother: Destroy their local base in the village!
+\n Hurry up! Before they become too strong for us!
+\n We cannot wait for too long!"
+End
+
+objective1
+"Objective: 
+\n Destroy their local base in the village!"
+End
+
+objective1solved
+"New Objective: 
+\n Good Job General!
+\n Now we can build our base and chase the rest away!"
+End
+
+objective2
+"Objective: 
+\n Free our land from all enemies!"
+End
+
+credits
+"Credits:
+\n Map: GLA COOP Campaign 01 – Iranian Counterstrike
+\n This is still the beta test version.
+\n Created by: El Chapo
+\n Website: generals-maps.com"
+End
+
+EasyInfo
+"Setup: EASY"
+End
+
+NormalInfo
+"Setup: NORMAL"
+End
+
+HardInfo
+"Setup: HARD"
+End
+
+

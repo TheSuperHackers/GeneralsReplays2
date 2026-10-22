@@ -1,0 +1,46 @@
+Map Name: 	AOD Pasha's R&D Zone Final ([url redacted])
+Author Name: 	Pasha
+Author Mail: 	[email redacted]
+Max. Players:	3
+Game:		C&C Generals: Zero Hour (AOD)
+Type of Map: 	Art Of Defense
+Description: 	Players will defend Pasha's New Generation Research and Development Zone against GLA attacks.
+
+**************************************************************************************************************************************
+V_02 modification. 24 Aug 2021
+Wave 11, Chinooks wave fixed
+**************************************************************************************************************************************
+A 3 players AOD map,
+
+Players have 3 options for difficulty of map as Easy, Medium and Hard Army depending on how skilled they are
+Easy Army: Waves periot 45 seconds
+Medium Army: Waves periot 30 seconds
+Hard Army:  Waves periot 30 seconds and Laser Turret, Patriot Battary, EMPs and also Auroras are not buildable for USA Armies. 
+It makes map for Proplayers ONLY as all Pasha's Map.
+
+AI must be GLA and place at upper right corner.
+
+There are 3 bases and each base has 2 small supply piles that has 90.000 $ each and 25K Dollar crate.
+Players can capture EMPs against air attacks of AI to R&D Zone buildings. Players can fill the reinforced bunkers
+Plenty of money and goodies to capture against AI.
+
+AI waves are attacking from ramps at south. Quick defense required for first rush attack.
+Sneak attacks will come from different points on battlefield.
+
+Win; 
+Player win if the players can defend Pasha's Research and Development (R&D) Zone against AI attacks and kill all AI units on battlefield
+until Victorious Time become "00:00"
+
+Loose;
+Players loose if Secret Research Lab, Secret Lab, Baikonur Ground Control Center and Infa China Power Plant buildings 
+in Pasha's R&D Zone are destroyed by AI units
+or if Players can't kill all AI unit on battlefield until Victorious Time become "00:00"
+
+
+I'm the oldest Zero Hour map maker, I was born 1959. 
+I do apology about my mistake on map. Its not easy to learn how to make map from poor WorldBuilder tutorials.
+Please do not hesitate to contact with me about bugs and my mistakes on map. 
+
+I wish you goodluck and have fun Generals.
+Pasha ;)
+e-mail;[email redacted]
