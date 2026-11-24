@@ -1,0 +1,87 @@
+SCRIPT:CasinoTime 
+"Casino opens in: "
+END
+
+Casino:Disclaimer
+"Caution! Gambling can be addictive! Please play responsibly!" 
+End
+
+Casino:GLAPot00
+"Bad Luck! \n GLA has lost 10.000$!" 
+End
+
+Casino:GLAPot01
+"Pay Day! \n GLA has won 5.000$!"
+End
+
+Casino:GLAPot02
+"Pay Day! \n GLA has won a TerrorTech!"
+End
+
+Casino:GLAPot03
+"Pay Day! \n GLA has won a BombTruck!"
+End
+
+Casino:GLAPot04
+"Pay Day! \n GLA has won some Terrorists!"
+End
+
+Casino:GLAPot05
+"Pay Day! \n GLA has won some Scorpions!"
+End
+
+Casino:GLAPot06
+"Pay Day! \n GLA has won some Scudlauncher!"
+End
+
+Casino:GLAPot07
+"Pay Day! \n GLA has won some Marauder!"
+End
+
+Casino:GLAPot08
+"Pay Day! \n GLA has won some JarmenKell!"
+End
+
+Casino:GLAPot09
+"Pay Day! \n GLA has won some QuadCannons!"
+End
+
+Casino:PlayerPot00
+"Bad Luck! \n You have lost 10.000$!"
+End
+
+Casino:PlayerPot01
+"Pay Day! \n You have won 1.000$!"
+End
+
+Casino:PlayerPot02
+"Pay Day! \n You have won 2.000$!"
+End
+
+Casino:PlayerPot03
+"Pay Day! \n You have won a Humvee!"
+End
+
+Casino:PlayerPot04
+"Pay Day! \n You have won Colonel Burton!"
+End
+
+Casino:PlayerPot05
+"Pay Day! \n You have won a NukeTruck!"
+End
+
+Casino:PlayerPot06
+"Bad Luck! \n GLA has won JarmenKell!"
+End
+
+Casino:PlayerPot07
+"Pay Day! \n You have won some Choppers!"
+End
+
+Casino:PlayerPot08
+"Pay Day! \n You have won some Rangers!"
+End
+
+Casino:PlayerPot09
+"Pay Day! \n You have won some Pathfinders!"
+End
