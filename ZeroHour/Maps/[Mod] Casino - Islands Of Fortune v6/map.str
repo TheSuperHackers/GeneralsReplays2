@@ -1,0 +1,875 @@
+Welcome to Islands Of Fortune!
+"Welcome to Islands Of Fortune!"
+END
+
+Map Created by Haubibban. Scripts by cetx. Assisted by DARKozDARKA, Newgate, Firuz and Adriane.
+"Map Created by Haubibban. Scripts by cetx. \n Assisted by DARKozDARKA, Newgate, Firuz and Adriane."
+END
+
+Enter Casino building to get units or money!
+"Enter Casino building to get units or money!"
+END
+
+Secondary Economy is available only when Oil Derrick is in the middle!
+"Secondary Economy is available only when Oil Derrick is in the middle!"
+END
+
+Free Gattling Tanks will be destroyed at 2:00
+"Free Gattling Tanks will be destroyed at 2:00"
+END
+
+Free Gattling Tanks have been destroyed!
+"Free Gattling Tanks have been destroyed!"
+END
+
+Secondary Economy Enabled
+"Secondary Economy Enabled!"
+END
+
+Secondary Economy Disabled
+"Secondary Economy Disabled!"
+END
+
+SCRIPT:Oil_Derrick
+"Oil Derrick:"
+END
+
+SCRIPT:CasinoC0
+"Casino 1:"
+END
+
+SCRIPT:CasinoC1
+"Casino 2:"
+END
+
+SCRIPT:CasinoC2
+"Casino 3:"
+END
+
+SCRIPT:CasinoC3
+"Casino 4:"
+END
+
+SCRIPT:CasinoC4
+"Casino 5:"
+END
+
+SCRIPT:CasinoC5
+"Casino 6:"
+END
+
+SCRIPT:CasinoC6
+"Casino 7:"
+END
+
+SCRIPT:CasinoC7
+"Casino 8:"
+END
+
+Player 1 has won Demo Jarmen!
+"Player 1 has won Demo Jarmen!"
+END
+
+Player 2 has won Demo Jarmen!
+"Player 2 has won Demo Jarmen!"
+END
+
+Player 3 has won Demo Jarmen!
+"Player 3 has won Demo Jarmen!"
+END
+
+Player 4 has won Demo Jarmen!
+"Player 4 has won Demo Jarmen!"
+END
+
+Player 5 has won Demo Jarmen!
+"Player 5 has won Demo Jarmen!"
+END
+
+Player 6 has won Demo Jarmen!
+"Player 6 has won Demo Jarmen!"
+END
+
+Player 7 has won Demo Jarmen!
+"Player 7 has won Demo Jarmen!"
+END
+
+Player 8 has won Demo Jarmen!
+"Player 8 has won Demo Jarmen!"
+END
+
+Player 1 has won Black Lotus!
+"Player 1 has won Black Lotus!"
+END
+
+Player 2 has won Black Lotus!
+"Player 2 has won Black Lotus!"
+END
+
+Player 3 has won Black Lotus!
+"Player 3 has won Black Lotus!"
+END
+
+Player 4 has won Black Lotus!
+"Player 4 has won Black Lotus!"
+END
+
+Player 5 has won Black Lotus!
+"Player 5 has won Black Lotus!"
+END
+
+Player 6 has won Black Lotus!
+"Player 6 has won Black Lotus!"
+END
+
+Player 7 has won Black Lotus!
+"Player 7 has won Black Lotus!"
+END
+
+Player 8 has won Black Lotus!
+"Player 8 has won Black Lotus!"
+END
+
+Player 1 has won a Helix!
+"Player 1 has won a Helix!"
+END
+
+Player 2 has won a Helix!
+"Player 2 has won a Helix!"
+END
+
+Player 3 has won a Helix!
+"Player 3 has won a Helix!"
+END
+
+Player 4 has won a Helix!
+"Player 4 has won a Helix!"
+END
+
+Player 5 has won a Helix!
+"Player 5 has won a Helix!"
+END
+
+Player 6 has won a Helix!
+"Player 6 has won a Helix!"
+END
+
+Player 7 has won a Helix!
+"Player 7 has won a Helix!"
+END
+
+Player 8 has won a Helix!
+"Player 8 has won a Helix!"
+END
+
+Player 1 has won Colonel Burton!
+"Player 1 has won Colonel Burton!"
+END
+
+Player 2 has won Colonel Burton!
+"Player 2 has won Colonel Burton!"
+END
+
+Player 3 has won Colonel Burton!
+"Player 3 has won Colonel Burton!"
+END
+
+Player 4 has won Colonel Burton!
+"Player 4 has won Colonel Burton!"
+END
+
+Player 5 has won Colonel Burton!
+"Player 5 has won Colonel Burton!"
+END
+
+Player 6 has won Colonel Burton!
+"Player 6 has won Colonel Burton!"
+END
+
+Player 7 has won Colonel Burton!
+"Player 7 has won Colonel Burton!"
+END
+
+Player 8 has won Colonel Burton!
+"Player 8 has won Colonel Burton!"
+END
+
+Jackpot! Player 1 has won $20000!
+"Jackpot! Player 1 has won $20000!"
+END
+
+Jackpot! Player 2 has won $20000!
+"Jackpot! Player 2 has won $20000!"
+END
+
+Jackpot! Player 3 has won $20000!
+"Jackpot! Player 3 has won $20000!"
+END
+
+Jackpot! Player 4 has won $20000!
+"Jackpot! Player 4 has won $20000!"
+END
+
+Jackpot! Player 5 has won $20000!
+"Jackpot! Player 5 has won $20000!"
+END
+
+Jackpot! Player 6 has won $20000!
+"Jackpot! Player 6 has won $20000!"
+END
+
+Jackpot! Player 7 has won $20000!
+"Jackpot! Player 7 has won $20000!"
+END
+
+Jackpot! Player 8 has won $20000!
+"Jackpot! Player 8 has won $20000!"
+END
+
+Wow! Player 1 has won $10000!
+"Wow! Player 1 has won $10000!"
+END
+
+Wow! Player 2 has won $10000!
+"Wow! Player 2 has won $10000!"
+END
+
+Wow! Player 3 has won $10000!
+"Wow! Player 3 has won $10000!"
+END
+
+Wow! Player 4 has won $10000!
+"Wow! Player 4 has won $10000!"
+END
+
+Wow! Player 5 has won $10000!
+"Wow! Player 5 has won $10000!"
+END
+
+Wow! Player 6 has won $10000!
+"Wow! Player 6 has won $10000!"
+END
+
+Wow! Player 7 has won $10000!
+"Wow! Player 7 has won $10000!"
+END
+
+Wow! Player 8 has won $10000!
+"Wow! Player 8 has won $10000!"
+END
+
+Player 1 has won some Hackers!
+"Player 1 has won some Hackers!"
+END
+
+Player 2 has won some Hackers!
+"Player 2 has won some Hackers!"
+END
+
+Player 3 has won some Hackers!
+"Player 3 has won some Hackers!"
+END
+
+Player 4 has won some Hackers!
+"Player 4 has won some Hackers!"
+END
+
+Player 5 has won some Hackers!
+"Player 5 has won some Hackers!"
+END
+
+Player 6 has won some Hackers!
+"Player 6 has won some Hackers!"
+END
+
+Player 7 has won some Hackers!
+"Player 7 has won some Hackers!"
+END
+
+Player 8 has won some Hackers!
+"Player 8 has won some Hackers!"
+END
+
+WARNING! Player 1 has won a Boss Dozer!
+"WARNING! Player 1 has won a Boss Dozer!"
+END
+
+WARNING! Player 2 has won a Boss Dozer!
+"WARNING! Player 2 has won a Boss Dozer!"
+END
+
+WARNING! Player 3 has won a Boss Dozer!
+"WARNING! Player 3 has won a Boss Dozer!"
+END
+
+WARNING! Player 4 has won a Boss Dozer!
+"WARNING! Player 4 has won a Boss Dozer!"
+END
+
+WARNING! Player 5 has won a Boss Dozer!
+"WARNING! Player 5 has won a Boss Dozer!"
+END
+
+WARNING! Player 6 has won a Boss Dozer!
+"WARNING! Player 6 has won a Boss Dozer!"
+END
+
+WARNING! Player 7 has won a Boss Dozer!
+"WARNING! Player 7 has won a Boss Dozer!"
+END
+
+WARNING! Player 8 has won a Boss Dozer!
+"WARNING! Player 8 has won a Boss Dozer!"
+END
+
+Wow! Player 1 has won $5000!
+"Wow! Player 1 has won $5000!"
+END
+
+Wow! Player 2 has won $5000!
+"Wow! Player 2 has won $5000!"
+END
+
+Wow! Player 3 has won $5000!
+"Wow! Player 3 has won $5000!"
+END
+
+Wow! Player 4 has won $5000!
+"Wow! Player 4 has won $5000!"
+END
+
+Wow! Player 5 has won $5000!
+"Wow! Player 5 has won $5000!"
+END
+
+Wow! Player 6 has won $5000!
+"Wow! Player 6 has won $5000!"
+END
+
+Wow! Player 7 has won $5000!
+"Wow! Player 7 has won $5000!"
+END
+
+Wow! Player 8 has won $5000!
+"Wow! Player 8 has won $5000!"
+END
+
+Player 1 has won Combat Chinook!
+"Player 1 has won Combat Chinook!"
+END
+
+Player 2 has won Combat Chinook!
+"Player 2 has won Combat Chinook!"
+END
+
+Player 3 has won Combat Chinook!
+"Player 3 has won Combat Chinook!"
+END
+
+Player 4 has won Combat Chinook!
+"Player 4 has won Combat Chinook!"
+END
+
+Player 5 has won Combat Chinook!
+"Player 5 has won Combat Chinook!"
+END
+
+Player 6 has won Combat Chinook!
+"Player 6 has won Combat Chinook!"
+END
+
+Player 7 has won Combat Chinook!
+"Player 7 has won Combat Chinook!"
+END
+
+Player 8 has won Combat Chinook!
+"Player 8 has won Combat Chinook!"
+END
+
+Player 1 has won some explosives!
+"Player 1 has won some explosives!"
+END
+
+Player 2 has won some explosives!
+"Player 2 has won some explosives!"
+END
+
+Player 3 has won some explosives!
+"Player 3 has won some explosives!"
+END
+
+Player 4 has won some explosives!
+"Player 4 has won some explosives!"
+END
+
+Player 5 has won some explosives!
+"Player 5 has won some explosives!"
+END
+
+Player 6 has won some explosives!
+"Player 6 has won some explosives!"
+END
+
+Player 7 has won some explosives!
+"Player 7 has won some explosives!"
+END
+
+Player 8 has won some explosives!
+"Player 8 has won some explosives!"
+END
+
+Player 1 has won Convoy Truck!
+"Player 1 has won Convoy Truck!"
+END
+
+Player 2 has won Convoy Truck!
+"Player 2 has won Convoy Truck!"
+END
+
+Player 3 has won Convoy Truck!
+"Player 3 has won Convoy Truck!"
+END
+
+Player 4 has won Convoy Truck!
+"Player 4 has won Convoy Truck!"
+END
+
+Player 5 has won Convoy Truck!
+"Player 5 has won Convoy Truck!"
+END
+
+Player 6 has won Convoy Truck!
+"Player 6 has won Convoy Truck!"
+END
+
+Player 7 has won Convoy Truck!
+"Player 7 has won Convoy Truck!"
+END
+
+Player 8 has won Convoy Truck!
+"Player 8 has won Convoy Truck!"
+END
+
+Player 1 has won Assault Helix!
+"Player 1 has won Assault Helix!"
+END
+
+Player 2 has won Assault Helix!
+"Player 2 has won Assault Helix!"
+END
+
+Player 3 has won Assault Helix!
+"Player 3 has won Assault Helix!"
+END
+
+Player 4 has won Assault Helix!
+"Player 4 has won Assault Helix!"
+END
+
+Player 5 has won Assault Helix!
+"Player 5 has won Assault Helix!"
+END
+
+Player 6 has won Assault Helix!
+"Player 6 has won Assault Helix!"
+END
+
+Player 7 has won Assault Helix!
+"Player 7 has won Assault Helix!"
+END
+
+Player 8 has won Assault Helix!
+"Player 8 has won Assault Helix!"
+END
+
+Player 1 has won Chinook with Terrorists!
+"Player 1 has won Chinook with Terrorists!"
+END
+
+Player 2 has won Chinook with Terrorists!
+"Player 2 has won Chinook with Terrorists!"
+END
+
+Player 3 has won Chinook with Terrorists!
+"Player 3 has won Chinook with Terrorists!"
+END
+
+Player 4 has won Chinook with Terrorists!
+"Player 4 has won Chinook with Terrorists!"
+END
+
+Player 5 has won Chinook with Terrorists!
+"Player 5 has won Chinook with Terrorists!"
+END
+
+Player 6 has won Chinook with Terrorists!
+"Player 6 has won Chinook with Terrorists!"
+END
+
+Player 7 has won Chinook with Terrorists!
+"Player 7 has won Chinook with Terrorists!"
+END
+
+Player 8 has won Chinook with Terrorists!
+"Player 8 has won Chinook with Terrorists!"
+END
+
+Player 1 has won Stealth Terrorists!
+"Player 1 has won Stealth Terrorists!"
+END
+
+Player 2 has won Stealth Terrorists!
+"Player 2 has won Stealth Terrorists!"
+END
+
+Player 3 has won Stealth Terrorists!
+"Player 3 has won Stealth Terrorists!"
+END
+
+Player 4 has won Stealth Terrorists!
+"Player 4 has won Stealth Terrorists!"
+END
+
+Player 5 has won Stealth Terrorists!
+"Player 5 has won Stealth Terrorists!"
+END
+
+Player 6 has won Stealth Terrorists!
+"Player 6 has won Stealth Terrorists!"
+END
+
+Player 7 has won Stealth Terrorists!
+"Player 7 has won Stealth Terrorists!"
+END
+
+Player 8 has won Stealth Terrorists!
+"Player 8 has won Stealth Terrorists!"
+END
+
+Player 1 has won all three heroes!
+"Player 1 has won all three heroes!"
+END
+
+Player 2 has won all three heroes!
+"Player 2 has won all three heroes!"
+END
+
+Player 3 has won all three heroes!
+"Player 3 has won all three heroes!"
+END
+
+Player 4 has won all three heroes!
+"Player 4 has won all three heroes!"
+END
+
+Player 5 has won all three heroes!
+"Player 5 has won all three heroes!"
+END
+
+Player 6 has won all three heroes!
+"Player 6 has won all three heroes!"
+END
+
+Player 7 has won all three heroes!
+"Player 7 has won all three heroes!"
+END
+
+Player 8 has won all three heroes!
+"Player 8 has won all three heroes!"
+END
+
+Player 1 has won Amphibious Transport!
+"Player 1 has won Amphibious Transport!"
+END
+
+Player 2 has won Amphibious Transport!
+"Player 2 has won Amphibious Transport!"
+END
+
+Player 3 has won Amphibious Transport!
+"Player 3 has won Amphibious Transport!"
+END
+
+Player 4 has won Amphibious Transport!
+"Player 4 has won Amphibious Transport!"
+END
+
+Player 5 has won Amphibious Transport!
+"Player 5 has won Amphibious Transport!"
+END
+
+Player 6 has won Amphibious Transport!
+"Player 6 has won Amphibious Transport!"
+END
+
+Player 7 has won Amphibious Transport!
+"Player 7 has won Amphibious Transport!"
+END
+
+Player 8 has won Amphibious Transport!
+"Player 8 has won Amphibious Transport!"
+END
+
+WTF??? PLAYER 1 HAS WON ALL FACTIONS' BUILDERS!
+"WTF??? PLAYER 1 HAS WON ALL FACTIONS' BUILDERS!"
+END
+
+WTF??? PLAYER 2 HAS WON ALL FACTIONS' BUILDERS!
+"WTF??? PLAYER 2 HAS WON ALL FACTIONS' BUILDERS!"
+END
+
+WTF??? PLAYER 3 HAS WON ALL FACTIONS' BUILDERS!
+"WTF??? PLAYER 3 HAS WON ALL FACTIONS' BUILDERS!"
+END
+
+WTF??? PLAYER 4 HAS WON ALL FACTIONS' BUILDERS!
+"WTF??? PLAYER 4 HAS WON ALL FACTIONS' BUILDERS!"
+END
+
+WTF??? PLAYER 5 HAS WON ALL FACTIONS' BUILDERS!
+"WTF??? PLAYER 5 HAS WON ALL FACTIONS' BUILDERS!"
+END
+
+WTF??? PLAYER 6 HAS WON ALL FACTIONS' BUILDERS!
+"WTF??? PLAYER 6 HAS WON ALL FACTIONS' BUILDERS!"
+END
+
+WTF??? PLAYER 7 HAS WON ALL FACTIONS' BUILDERS!
+"WTF??? PLAYER 7 HAS WON ALL FACTIONS' BUILDERS!"
+END
+
+WTF??? PLAYER 8 HAS WON ALL FACTIONS' BUILDERS!
+"WTF??? PLAYER 8 HAS WON ALL FACTIONS' BUILDERS!"
+END
+
+StaZzz Noob! XD
+"StaZzz Noob! XD"
+END
+
+ZA WARUDO! TOKI YO TOMARE!
+"ZA WARUDO! TOKI YO TOMARE! \n MUDA MUDA MUDA!!!"
+END
+
+And so time flows again...
+"And so time flows again..."
+END
+
+SCRIPT:HellTimer
+"Hell's Casino Reward in:"
+END
+
+SCRIPT:HellCasino
+"Hell's Casino:"
+END
+
+Strange seismic activity spotted nearby the middle, be careful...
+"Strange seismic activity spotted nearby the middle, be careful..."
+END
+
+Look at the middle! What's happening?
+"Look at the middle! What's happening?"
+END
+
+The Devil was impressed by your luck and want you to play his Casino...
+"The DeviI was impressed by your luck and want you to play his Casino..."
+END
+
+Enter Hell's Casino and hold it for 60 seconds to get Devil's reward...
+"Enter Hell's Casino and hold it for 60 seconds to get Devil's reward..."
+END
+
+Hint: Casino revives if it has been destroyed.
+"Hint: Casino revives if it has been destroyed. \n Only Microwave Tank can clear the Hell's Casino"
+END
+
+First Player in the list has taken Hell's Casino!
+"First Player in the list has taken Hell's Casino!"
+END
+
+Second Player in the list has taken Hell's Casino!
+"Second Player in the list has taken Hell's Casino!"
+END
+
+Third Player in the list has taken Hell's Casino!
+"Third Player in the list has taken Hell's Casino!"
+END
+
+Fourth Player in the list has taken Hell's Casino!
+"Fourth Player in the list has taken Hell's Casino!"
+END
+
+Fifth Player in the list has taken Hell's Casino!
+"Fifth Player in the list has taken Hell's Casino!"
+END
+
+Sixth Player in the list has taken Hell's Casino!
+"Sixth Player in the list has taken Hell's Casino!"
+END
+
+Seventh Player in the list has taken Hell's Casino!
+"Seventh Player in the list has taken Hell's Casino!"
+END
+
+Eighth Player in the list has taken Hell's Casino!
+"Eighth Player in the list has taken Hell's Casino!"
+END
+
+First Player in the list has won Devil's Tank Division...
+"First Player in the list has won Devil's Tank Division..."
+END
+
+Second Player in the list has won Devil's Tank Division...
+"Second Player in the list has won Devil's Tank Division..."
+END
+
+Third Player in the list has won Devil's Tank Division...
+"Third Player in the list has won Devil's Tank Division..."
+END
+
+Fourth Player in the list has won Devil's Tank Division...
+"Fourth Player in the list has won Devil's Tank Division..."
+END
+
+Fifth Player in the list has won Devil's Tank Division...
+"Fifth Player in the list has won Devil's Tank Division..."
+END
+
+Sixth Player in the list has won Devil's Tank Division...
+"Sixth Player in the list has won Devil's Tank Division..."
+END
+
+Seventh Player in the list has won Devil's Tank Division...
+"Seventh Player in the list has won Devil's Tank Division..."
+END
+
+Eighth Player in the list has won Devil's Tank Division...
+"Eighth Player in the list has won Devil's Tank Division..."
+END
+
+First Player in the list has won Devil's Aurora Squadron...
+"First Player in the list has won Devil's Aurora Squadron..."
+END
+
+Second Player in the list has won Devil's Aurora Squadron...
+"Second Player in the list has won Devil's Aurora Squadron..."
+END
+
+Third Player in the list has won Devil's Aurora Squadron...
+"Third Player in the list has won Devil's Aurora Squadron..."
+END
+
+Fourth Player in the list has won Devil's Aurora Squadron...
+"Fourth Player in the list has won Devil's Aurora Squadron..."
+END
+
+Fifth Player in the list has won Devil's Aurora Squadron...
+"Fifth Player in the list has won Devil's Aurora Squadron..."
+END
+
+Sixth Player in the list has won Devil's Aurora Squadron...
+"Sixth Player in the list has won Devil's Aurora Squadron..."
+END
+
+Seventh Player in the list has won Devil's Aurora Squadron...
+"Seventh Player in the list has won Devil's Aurora Squadron..."
+END
+
+Eighth Player in the list has won Devil's Aurora Squadron...
+"Eighth Player in the list has won Devil's Aurora Squadron..."
+END
+
+First Player in the list has won Devil's Burton Clones...
+"First Player in the list has won Devil's Burton Clones..."
+END
+
+Second Player in the list has won Devil's Burton Clones...
+"Second Player in the list has won Devil's Burton Clones..."
+END
+
+Third Player in the list has won Devil's Burton Clones...
+"Third Player in the list has won Devil's Burton Clones..."
+END
+
+Fourth Player in the list has won Devil's Burton Clones...
+"Fourth Player in the list has won Devil's Burton Clones..."
+END
+
+Fifth Player in the list has won Devil's Burton Clones...
+"Fifth Player in the list has won Devil's Burton Clones..."
+END
+
+Sixth Player in the list has won Devil's Burton Clones...
+"Sixth Player in the list has won Devil's Burton Clones..."
+END
+
+Seventh Player in the list has won Devil's Burton Clones...
+"Seventh Player in the list has won Devil's Burton Clones..."
+END
+
+Eighth Player in the list has won Devil's Burton Clones...
+"Eighth Player in the list has won Devil's Burton Clones..."
+END
+
+First Player in the list has won DoMiNaToR's Fury...
+"First Player in the list has won DoMiNaToR's Fury..."
+END
+
+Second Player in the list has won DoMiNaToR's Fury...
+"Second Player in the list has won DoMiNaToR's Fury..."
+END
+
+Third Player in the list has won DoMiNaToR's Fury...
+"Third Player in the list has won DoMiNaToR's Fury..."
+END
+
+Fourth Player in the list has won DoMiNaToR's Fury...
+"Fourth Player in the list has won DoMiNaToR's Fury..."
+END
+
+Fifth Player in the list has won DoMiNaToR's Fury...
+"Fifth Player in the list has won DoMiNaToR's Fury..."
+END
+
+Sixth Player in the list has won DoMiNaToR's Fury...
+"Sixth Player in the list has won DoMiNaToR's Fury..."
+END
+
+Seventh Player in the list has won DoMiNaToR's Fury...
+"Seventh Player in the list has won DoMiNaToR's Fury..."
+END
+
+Eighth Player in the list has won DoMiNaToR's Fury...
+"Eighth Player in the list has won DoMiNaToR's Fury..."
+END
+
+First Player in the list has won the Curse of StaZzz...
+"First Player in the list has won the Curse of StaZzz..."
+END
+
+Second Player in the list has won the Curse of StaZzz...
+"Second Player in the list has won the Curse of StaZzz..."
+END
+
+Third Player in the list has won the Curse of StaZzz...
+"Third Player in the list has won the Curse of StaZzz..."
+END
+
+Fourth Player in the list has won the Curse of StaZzz...
+"Fourth Player in the list has won the Curse of StaZzz..."
+END
+
+Fifth Player in the list has won the Curse of StaZzz...
+"Fifth Player in the list has won the Curse of StaZzz..."
+END
+
+Sixth Player in the list has won the Curse of StaZzz...
+"Sixth Player in the list has won the Curse of StaZzz..."
+END
+
+Seventh Player in the list has won the Curse of StaZzz...
+"Seventh Player in the list has won the Curse of StaZzz..."
+END
+
+Eighth Player in the list has won the Curse of StaZzz...
+"Eighth Player in the list has won the Curse of StaZzz..."
+END

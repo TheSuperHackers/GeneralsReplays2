@@ -1,0 +1,83 @@
+intro
+"Welcom Generals \n Map \n 'No Money Art of Defense for Pro'\n by Nemes1s and [Easy]wWw (Rus.51|Max), 2012"
+End
+
+go
+"Wave 1/13"
+End
+
+go2
+"Wave 2/13"
+End
+
+go3
+"Wave 3/13"
+End
+
+go4
+"Wave 4/13"
+End
+
+go5
+"Wave 5/13"
+End
+
+go6
+"Wave 6/13"
+End
+
+go7
+"Wave 7/13"
+End
+
+go8
+"Wave 8/13"
+End
+
+go9
+"Wave 9/13"
+End
+
+go10
+"Wave 10/13"
+End
+
+go11
+"Wave 11/13"
+End
+
+go12
+"Wave 12/13"
+End
+
+go13
+"Wave 13/13"
+End
+
+boss
+"<<<BOSS>>>"
+End
+
+lose
+"GAME OVER"
+End
+
+SCRIPT:Gameover
+"GAME OVER"
+End
+
+SCRIPT:count
+"Wave(13):"
+End
+
+gl
+"GOOD LUCK \n protect the center"
+End
+
+win
+"Good job, guys!!!"
+End
+
+Error N13 => NOOB HOST. Use GLA as an enemy.
+"ERROR \n Restart with GLA at corner spot.\n Thanks"
+End

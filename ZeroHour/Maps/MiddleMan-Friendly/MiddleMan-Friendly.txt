@@ -1,0 +1,60 @@
+Command & Conquer Generals: Zero Hour Map
+
+================================================================
+Title                   : Middle Man
+Version                 : 1.0
+Release Date            : 27th december 2005
+Filename                : MiddleMan.map
+Author                  : the G.o.a.T
+Email Address           : [email redacted]
+Website                 : [url redacted]
+                           
+Description             : This is a highly-detailed 3 player map set in a tropical environment. There are a few extra supply depots and oil derricks available. One player is located partially in between the two others. Can you survive being the man in the middle?
+
+Have fun :)
+================================================================
+--- Play Information ---
+Game                    : Command & Conquer Generals: Zero Hour
+                                 
+Level Name              : Middle Man (MiddleMan.map)
+
+Game Type               : Skirmish
+Single Player           : Yes... (skirmish players supported)
+Multiplayer             : Yes... (it should work)
+Known bugs              : None known
+
+--- Construction ---
+Editor(s) used          : Worldbuilder
+Base                    : Scratch
+
+Requirements
+------------
+None.
+
+Special Thanks
+--------------
+To all the guys I bothered with a big problem I had with this map, because I ran into a limit of the engine. In particular bhones, for enlightening me in some extra features of worldbuilder I had never used before.
+
+Bhones and DaRkAlEx for testing a beta-version of this map.
+
+
+Installation
+------------
+To use the map, look in your "My Documents" for a folder named "Command and Conquer Generals Zero Hour data/Maps". If this directory doesn't exist (means you never played a skirmish game), play a skirmish map for a few minutes and comeback. The folder will be automatically created by the game. Extract the COMPLETE Map FOLDER (not just the individual files) included in the map zip file in the "/Command and Conquer Generals Zero Hour data/Maps" folder. Fire up the game and you should be good to go. Look for the map in the Unofficial Maps section.
+
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by 'the G.o.a.T' 2005-2006.
+Authors may NOT use this level as a base to build additional levels, unless they have my permission.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+----------------------
+All trademarks and trade names are properties of their respective owners.

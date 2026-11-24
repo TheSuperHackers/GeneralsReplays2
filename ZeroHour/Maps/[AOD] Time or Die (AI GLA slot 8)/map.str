@@ -1,0 +1,32 @@
+intro1
+"Welcome, Generals! Map 'AOD TIME or DIE' by wWw, 2020 \n Its crazy MOD map \n Good luck and STAY AT HOME"
+END
+
+intro2
+"LETS ROCK GUYS"
+END
+
+intro3
+"This map for 3 players! And u can choose any different start position \n But u can add to this map 4, 5, 6 or 7 players too!"
+END
+
+by wWw (E)
+"Difficulty level: Newbies and Noobs \n EASY"
+END
+
+by wWw (N)
+"Difficulty level: Semi PRO guys \n NORMAL"
+END
+
+by wWw (H)
+"Difficulty level: TOP Experts & Professionals \n HARD"
+END
+
+lose
+"GAME OVER \n Try again"
+END
+
+
+SCRIPT:wave
+"TIME or DIE:"
+END

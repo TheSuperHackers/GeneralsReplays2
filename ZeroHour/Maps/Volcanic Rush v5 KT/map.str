@@ -1,0 +1,24 @@
+MapIntro:01
+"Volcanic Rush, by -RaDaR^ \n
+Quad Bunker by n0ttws"
+End
+
+IncomingSupplies
+"Incoming supplies!"
+End
+
+WallOneRemoved
+"The First Wall has fallen!"
+End
+
+WallTwoRemoved
+"The Second Wall has fallen!"
+End
+
+SCRIPT:WallOneRemovedTimer
+"First Wall gets removed in:"
+End
+
+SCRIPT:WallTwoRemovedTimer
+"Second Wall gets removed in:"
+End

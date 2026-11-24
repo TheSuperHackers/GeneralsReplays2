@@ -1,0 +1,51 @@
+SCRIPT:team1
+"TEAM #1:"
+END
+
+SCRIPT:team2
+"TEAM #2:"
+END
+
+SCRIPT:time1
+"half 1:"
+END
+
+SCRIPT:time2
+"half 2:"
+END
+
+start
+"Hi, Generals. \n Map Crazy FootBall by [Easy]wWw, Rus.51|Max \n 2010"
+END
+
+start1
+"You must place any of your units in the opposite football goals"
+END
+
+start2
+"Protect the gate is forbidden!"
+END
+
+start3
+"GO go go! Have Fun!"
+END
+
+smena
+"change football goal!!!"
+END
+
+go2
+"GO go go! Have Fun!"
+END
+
+have fun
+"08.04.2010, by [Easy]wWw, Rus.51|Max"
+END
+
+goal
+"Goal! Goal!! Goal!!!"
+END
+
+finish
+"Time is ower!!!"
+END

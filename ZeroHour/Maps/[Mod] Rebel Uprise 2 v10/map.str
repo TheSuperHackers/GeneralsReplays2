@@ -1,0 +1,1368 @@
+
+if_you_can_read_this
+"Welcome to Rebel Uprise 2 [V10]"
+End
+
+you_need_to_restart_generals
+"Don't be dumb and read the instruction below. Good luck!"
+End
+
+SCRIPT:credits1
+"Map created by the Multan brothers"
+End
+
+SCRIPT:credits2
+"With special thanks to Legionnaire & GoldFish"
+End
+
+test_mode
+"test-mode is running. Put unit in middle to get rich fast"
+End
+
+team_aan
+"Host enabled Team modus: Do NOT click 'surrender' now,  or your teammate will be booted from the game! \n 
+ Sell CC or self destruct if you want to quit.\n
+ (do not enable team modus in FFA games, it will slow things down)"  
+End
+
+
+SCRIPT: instructions
+"=> The goal of this map is to collect as much money as you can. The more money you have, the better units will spawn for you. \n
+=> You can collect money by 1: Killing enemy units (cashbountry is enabled) 2: Putting a unit in the middle 3: Picking up crates. \n
+=> To win the game kill your enemy's base or gattling canon But be aware: those buildings do have extra hitpoints! \n
+=> The gattling canon is not a normal gattling cannon. And it cannot detect stealth units! \n 
+=> As long as your barracks and armsdealer are not destroyed,these building will spawn free units(more money = better units).\n
+=> In your store (the island behind your base) you can use hijackers or saboteurs to buy extra units, upgrades or defenses.
+The number of flags behind the hut indicate the 'price' of the unit. Example: To buy a Raptor, put just 2 hijackers in the hut next to Raptor \n 
+=> Every $500 you collect(so at $500, $1000, $1500 etc...) an extra hijacker will spawn in your store.  Every $1500 a saboteur will spawn in your store.\n
+=> When the casino timer expires, a casino will spawn in your store (& a free hijacker). Put 1 hijacker in it to win a prize.  \n 
+=> Hero units spawn at certain cash milestones. [CIA agent, UN Soldier, Militiatank, UN humvee, Alpha Auroa, Nuketruck] \n 
+=> You can self-destruct bij selling the middle patriot EMP on your store island! \n
+=> Every 60 seconds a money crate or bonus unit will spawn in the middle of the map! \n
+"
+End
+
+
+SCRIPT:casino_countdown
+"Casino: "
+End
+
+
+SCRIPT:casino_counter_units
+"Casino unit counter: "
+End
+
+SCRIPT:casino_counter_tech
+"Casino tech counter: "
+End
+
+CASINO_OPEN
+"The casino is open."
+End
+
+CASINO_HIGHROLER_ENABLED
+"The casino swithced to highroler."
+End
+
+ANTRAX_ALERT
+"ANTRAX ALERT!"
+End
+
+SCRIPT: antrax_alarm
+"ANTRAX ALERT!"
+End
+
+SCRIPT: 200crate
+"$200 or Unit"
+End
+
+SCRIPT: 1000crate
+"$500 or Unit"
+End
+
+SCRIPT: 1500crate
+"$1000 or Unit"
+End
+
+SCRIPT: 2500crate
+"$1500 or Unit"
+End
+
+
+SCRIPT:p0 scripts 
+"========================================================================================================================="
+End
+
+SCRIPT: p0_first_1k
+"Player 1 was the first to reach $1000"
+End
+
+SCRIPT: p0_first_2.5k
+"Player 1 was the first to reach $2500"
+End
+
+SCRIPT: p0_first_5k
+"Player 1 was the first to reach $5000"
+End
+
+SCRIPT: p0_first_10k
+"Player 1 was the first to reach $10.000"
+End
+
+SCRIPT: p0_first_20k
+"Player 1 was the first to reach $20.000"
+End
+
+SCRIPT: p0_first_30k
+"Player 1 was the first to reach $30.000"
+End
+
+
+
+SCRIPT:casino_p0_won_burton
+"Casino: player 1 won a colonel Burton"
+End
+
+SCRIPT:casino_p0_won_scud
+"Casino: player 1 won a scud launcher"
+End
+
+SCRIPT:casino_p0_won_sniper
+"Casino: player 1 won a sniper"
+End
+
+SCRIPT:casino_p0_won_outpost
+"Casino: player 1 won a listening outpost"
+End
+
+SCRIPT:casino_p0_won_usarmy
+"Casino: player 1 won 2 paladin tanks"
+End
+
+SCRIPT:casino_p0_won_nukesuv
+"Casino: player 1 won a nuke SUV !!!"
+End
+
+SCRIPT:casino_p0_won_troopcrawler
+"Casino: player 1 won an assault troop crawler"
+End
+
+SCRIPT:casino_p0_lost
+"Casino: player 1 is a loser"
+End
+
+SCRIPT:tech_casino_k1_p0
+"Research centre: player 1 is researching China tank upgrades"
+End
+
+SCRIPT:tech_casino_k2_p0
+"Research centre: player 1 is researching GLA toxin upgrades"
+End
+
+SCRIPT:alpha_warning_p0
+"Player 1 got an Alpha Aurora!"
+End
+
+SCRIPT:tech_casino_k4_p0
+"Research centre: player 1 is researching GLA vehicle upgrades"
+End
+
+SCRIPT:tech_casino_k5_p0
+"Research centre: player 1 is researching GLA armor piercing ammo"
+End
+
+SCRIPT:tech_casino_k6_p0
+"Research centre: player 1 is researching GLA infantry upgrades"
+End
+
+SCRIPT:tech_casino_k7_p0
+"Research centre: player 1 is researching GLA fortified structures"
+End
+
+SCRIPT:tech_casino_k8_p0
+"Research centre: player 1 is researching USA airforce upgrades"
+End
+
+SCRIPT:nuke_warning_p0
+"Player 1 got a nuke truck!"
+End
+
+SCRIPT:tech_casino_k10_p0
+"Research centre: player 1 is researching USA technology upgrades"
+End
+
+SCRIPT:tech_casino_k11_p0
+"Research centre: player 1 is researching Chinese weapon upgrades"
+End
+
+SCRIPT:tech_casino_k12_p0
+"Research centre: player 1 is researching nationalism and subliminal messaging"
+End
+
+p0_has_50000
+"Player 1 has $ 40 000 and will receive a hijacker every 30 seconds!"
+End
+
+p0_destroyed
+"Player 1 was defeated!"
+End
+
+SCRIPT: p0_too_much_money
+"Player 1 was destroyed by a teammate"
+End
+
+SCRIPT: p0_click_surrender
+"Player 1 pressed surrender. The teammate who received their resources will be destoyed."
+End
+
+SCRIPT:casino_p0_lost_kicked_drunk
+"Casino: player 1 won an amphibious transport"
+End
+
+SCRIPT:casino_p0_lost_kicked_cheater
+"Casino: player 1 won 2 humvee's"
+End
+
+SCRIPT:casino_p0_won_500
+"Casino: player 1 won $1000"
+End
+
+SCRIPT:casino_p0_won_1000
+"Casino: player 1 won $2000"
+End
+
+SCRIPT:casino_p0_won_1stealth_hijacker
+"Casino: player 1 won 2 stealth hijackers"
+End
+
+SCRIPT:casino_p0_won_2stealth_hijacker
+"Casino: player 1 won 3 stealth hijackers"
+End
+
+SCRIPT:casino_p0_won_aurora
+"Casino: player 1 won 3 sentry drones"
+End
+
+SCRIPT:casino_p0_won_2demobikes
+"Casino: player 1 won 3 demo bikes"
+End
+
+SCRIPT:casino_p0_won_3demobikes
+"Casino: player 1 won 4 demo bikes"
+End
+
+
+SCRIPT:casino_p0_won_2hijackers
+"Casino: player 1 won 3 hijackers (in store)"
+End
+
+SCRIPT:casino_p0_won_3hijackers
+"Casino: player 1 won 4 hijackers (in store)"
+End
+
+SCRIPT:casino_p0_won_1saboteur
+"Casino: player 1 won a saboteur (in store)"
+End
+
+SCRIPT:casino_p0_won_2saboteur
+"Casino: player 1 won two saboteurs (in store)"
+End
+
+SCRIPT:casino_p0_won_bombtrucks
+"Casino: player 1 won 2 bombtrucks"
+End
+
+SCRIPT:casino_p0_won_migs
+"Casino: player 1 won a pair of stealth fighters"
+End
+
+SCRIPT:casino_p0_won_combatchinook
+"Casino: player 1 won a combat chinook"
+End
+
+SCRIPT:casino_p0_won_nukecannon
+"Casino: player 1 won a nuke cannon"
+End
+
+SCRIPT:casino_p0_won_angrymobs
+"Casino: player 1 won 2 angry mobs"
+End
+
+SCRIPT:casino_p0_won_emperortank
+"Casino: player 1 won an emperor tank"
+End
+
+SCRIPT:p0_endgame
+"Player 1 reached $40 000 ! ! !"
+End
+
+SCRIPT:p1 scripts 
+"=============================================================================================================================="
+End
+
+
+SCRIPT: p1_first_1k
+"Player 2 was the first to reach $1000"
+End
+
+SCRIPT: p1_first_2.5k
+"Player 2 was the first to reach $2500"
+End
+
+SCRIPT: p1_first_5k
+"Player 2 was the first to reach $5000"
+End
+
+SCRIPT: p1_first_10k
+"Player 2 was the first to reach $10.000"
+End
+
+SCRIPT: p1_first_20k
+"Player 2 was the first to reach $20.000"
+End
+
+SCRIPT: p1_first_30k
+"Player 2 was the first to reach $30.000"
+End
+
+
+SCRIPT:casino_p1_won_burton
+"Casino: Player 2 won a colonel Burton"
+End
+
+SCRIPT:casino_p1_won_scud
+"Casino: Player 2 won a scud launcher"
+End
+
+SCRIPT:casino_p1_won_sniper
+"Casino: Player 2 won a sniper"
+End
+
+SCRIPT:casino_p1_won_outpost
+"Casino: Player 2 won a listening outpost"
+End
+
+SCRIPT:casino_p1_won_usarmy
+"Casino: Player 2 won 2 paladin tanks"
+End
+
+SCRIPT:casino_p1_won_nukesuv
+"Casino: Player 2 won a nuke SUV !!!"
+End
+
+SCRIPT:casino_p1_won_troopcrawler
+"Casino: Player 2 won an assault troop crawler"
+End
+
+SCRIPT:casino_p1_lost
+"Casino: Player 2 is a loser"
+End
+
+SCRIPT:tech_casino_k1_p1
+"Research centre: Player 2 is researching China tank upgrades"
+End
+
+SCRIPT:tech_casino_k2_p1
+"Research centre: Player 2 is researching GLA toxin upgrades"
+End
+
+SCRIPT:alpha_warning_p1
+"Player 2 got an Alpha Aurora!"
+End
+
+SCRIPT:tech_casino_k4_p1
+"Research centre: Player 2 is researching GLA vehicle upgrades"
+End
+
+SCRIPT:tech_casino_k5_p1
+"Research centre: Player 2 is researching GLA armor piercing ammo"
+End
+
+SCRIPT:tech_casino_k6_p1
+"Research centre: Player 2 is researching GLA infantry upgrades"
+End
+
+SCRIPT:tech_casino_k7_p1
+"Research centre: Player 2 is researching GLA fortified structures"
+End
+
+SCRIPT:tech_casino_k8_p1
+"Research centre: Player 2 is researching USA airforce upgrades"
+End
+
+SCRIPT:nuke_warning_p1
+"Player 2 got a nuke truck!"
+End
+
+SCRIPT:tech_casino_k10_p1
+"Research centre: Player 2 is researching USA technology upgrades"
+End
+
+SCRIPT:tech_casino_k11_p1
+"Research centre: Player 2 is researching Chinese weapon upgrades"
+End
+
+SCRIPT:tech_casino_k12_p1
+"Research centre: Player 2 is researching nationalism and subliminal messaging"
+End
+
+p1_has_50000
+"Player 2 has $ 40 000 and will receive a hijacker every 30 seconds!"
+End
+
+p1_destroyed
+"Player 2 was defeated!"
+End
+
+SCRIPT: p1_too_much_money
+"Player 2 was destroyed by a teammate"
+End
+
+SCRIPT: p1_click_surrender
+"Player 2 pressed surrender. The teammate who received their resources will be destoyed."
+End
+
+SCRIPT:casino_p1_lost_kicked_drunk
+"Casino: Player 2 won an amphibious transport"
+End
+
+SCRIPT:casino_p1_lost_kicked_cheater
+"Casino: Player 2 won 2 humvee's"
+End
+
+SCRIPT:casino_p1_won_500
+"Casino: Player 2 won $1000"
+End
+
+SCRIPT:casino_p1_won_1000
+"Casino: Player 2 won $2000"
+End
+
+SCRIPT:casino_p1_won_1stealth_hijacker
+"Casino: Player 2 won 2 stealth hijackers"
+End
+
+SCRIPT:casino_p1_won_2stealth_hijacker
+"Casino: Player 2 won 3 stealth hijackers"
+End
+
+SCRIPT:casino_p1_won_aurora
+"Casino: Player 2 won 3 sentry drones"
+End
+
+SCRIPT:casino_p1_won_2demobikes
+"Casino: Player 2 won 3 demo bikes"
+End
+
+SCRIPT:casino_p1_won_3demobikes
+"Casino: Player 2 won 4 demo bikes"
+End
+
+
+SCRIPT:casino_p1_won_2hijackers
+"Casino: Player 2 won 3 hijackers (in store)"
+End
+
+SCRIPT:casino_p1_won_3hijackers
+"Casino: Player 2 won 4 hijackers (in store)"
+End
+
+SCRIPT:casino_p1_won_1saboteur
+"Casino: Player 2 won a saboteur (in store)"
+End
+
+SCRIPT:casino_p1_won_2saboteur
+"Casino: Player 2 won two saboteurs (in store)"
+End
+
+SCRIPT:casino_p1_won_bombtrucks
+"Casino: Player 2 won 2 bombtrucks"
+End
+
+SCRIPT:casino_p1_won_migs
+"Casino: Player 2 won a pair of stealth fighters"
+End
+
+SCRIPT:casino_p1_won_combatchinook
+"Casino: Player 2 won a combat chinook"
+End
+
+SCRIPT:casino_p1_won_nukecannon
+"Casino: Player 2 won a nuke cannon"
+End
+
+SCRIPT:casino_p1_won_angrymobs
+"Casino: player 2 won 2 angry mobs"
+End
+
+SCRIPT:casino_p1_won_emperortank
+"Casino: player 2 won an emperor tank"
+End
+
+SCRIPT:p1_endgame
+"Player 2 reached $40 000 ! ! !"
+End
+
+
+SCRIPT:p2 scripts 
+"=============================================================================================================================="
+End
+
+SCRIPT: p2_first_1k
+"Player 3 was the first to reach $1000"
+End
+
+SCRIPT: p2_first_2.5k
+"Player 3 was the first to reach $2500"
+End
+
+SCRIPT: p2_first_5k
+"Player 3 was the first to reach $5000"
+End
+
+SCRIPT: p2_first_10k
+"Player 3 was the first to reach $10.000"
+End
+
+SCRIPT: p2_first_20k
+"Player 3 was the first to reach $20.000"
+End
+
+SCRIPT: p2_first_30k
+"Player 3 was the first to reach $30.000"
+End
+
+
+
+SCRIPT:casino_p2_won_burton
+"Casino: Player 3 won a colonel Burton"
+End
+
+SCRIPT:casino_p2_won_scud
+"Casino: Player 3 won a scud launcher"
+End
+
+SCRIPT:casino_p2_won_sniper
+"Casino: Player 3 won a sniper"
+End
+
+SCRIPT:casino_p2_won_outpost
+"Casino: Player 3 won a listening outpost"
+End
+
+SCRIPT:casino_p2_won_usarmy
+"Casino: Player 3 won 2 paladin tanks"
+End
+
+SCRIPT:casino_p2_won_nukesuv
+"Casino: Player 3 won a nuke SUV !!!"
+End
+
+SCRIPT:casino_p2_won_troopcrawler
+"Casino: Player 3 won an assault troop crawler"
+End
+
+SCRIPT:casino_p2_lost
+"Casino: Player 3 is a loser"
+End
+
+SCRIPT:tech_casino_k1_p2
+"Research centre: Player 3 is researching China tank upgrades"
+End
+
+SCRIPT:tech_casino_k2_p2
+"Research centre: Player 3 is researching GLA toxin upgrades"
+End
+
+SCRIPT:alpha_warning_p2
+"Player 3 got an Alpha Aurora!"
+End
+
+SCRIPT:tech_casino_k4_p2
+"Research centre: Player 3 is researching GLA vehicle upgrades"
+End
+
+SCRIPT:tech_casino_k5_p2
+"Research centre: Player 3 is researching GLA armor piercing ammo"
+End
+
+SCRIPT:tech_casino_k6_p2
+"Research centre: Player 3 is researching GLA infantry upgrades"
+End
+
+SCRIPT:tech_casino_k7_p2
+"Research centre: Player 3 is researching GLA fortified structures"
+End
+
+SCRIPT:tech_casino_k8_p2
+"Research centre: Player 3 is researching USA airforce upgrades"
+End
+
+SCRIPT:nuke_warning_p2
+"Player 3 got a nuke truck!"
+End
+
+SCRIPT:tech_casino_k10_p2
+"Research centre: Player 3 is researching USA technology upgrades"
+End
+
+SCRIPT:tech_casino_k11_p2
+"Research centre: Player 3 is researching Chinese weapon upgrades"
+End
+
+SCRIPT:tech_casino_k12_p2
+"Research centre: Player 3 is researching nationalism and subliminal messaging"
+End
+
+p2_has_50000
+"Player 3 has $ 40 000 and will receive a hijacker every 30 seconds!"
+End
+
+p2_destroyed
+"Player 3 was defeated!"
+End
+
+SCRIPT: p2_too_much_money
+"Player 3 was destroyed by a teammate"
+End
+
+SCRIPT: p2_click_surrender
+"Player 3 pressed surrender. The teammate who received their resources will be destoyed."
+End
+
+SCRIPT:casino_p2_lost_kicked_drunk
+"Casino: Player 3 won an amphibious transport"
+End
+
+SCRIPT:casino_p2_lost_kicked_cheater
+"Casino: Player 3 won 2 humvee's"
+End
+
+SCRIPT:casino_p2_won_500
+"Casino: Player 3 won $1000"
+End
+
+SCRIPT:casino_p2_won_1000
+"Casino: Player 3 won $2000"
+End
+
+SCRIPT:casino_p2_won_1stealth_hijacker
+"Casino: Player 3 won 2 stealth hijackers"
+End
+
+SCRIPT:casino_p2_won_2stealth_hijacker
+"Casino: Player 3 won 3 stealth hijackers"
+End
+
+SCRIPT:casino_p2_won_aurora
+"Casino: Player 3 won 3 sentry drones"
+End
+
+SCRIPT:casino_p2_won_2demobikes
+"Casino: Player 3 won 3 demo bikes"
+End
+
+SCRIPT:casino_p2_won_3demobikes
+"Casino: Player 3 won 4 demo bikes"
+End
+
+
+SCRIPT:casino_p2_won_2hijackers
+"Casino: Player 3 won 3 hijackers (in store)"
+End
+
+SCRIPT:casino_p2_won_3hijackers
+"Casino: Player 3 won 4 hijackers (in store)"
+End
+
+SCRIPT:casino_p2_won_1saboteur
+"Casino: Player 3 won a saboteur (in store)"
+End
+
+SCRIPT:casino_p2_won_2saboteur
+"Casino: Player 3 won two saboteurs (in store)"
+End
+
+SCRIPT:casino_p2_won_bombtrucks
+"Casino: Player 3 won 2 bombtrucks"
+End
+
+SCRIPT:casino_p2_won_migs
+"Casino: Player 3 won a pair of stealth fighters"
+End
+
+SCRIPT:casino_p2_won_combatchinook
+"Casino: Player 3 won a combat chinook"
+End
+
+SCRIPT:casino_p2_won_nukecannon
+"Casino: Player 3 won a nuke cannon"
+End
+
+SCRIPT:casino_p2_won_angrymobs
+"Casino: player 3 won 2 angry mobs"
+End
+
+SCRIPT:casino_p2_won_emperortank
+"Casino: player 3 won an emperor tank"
+End
+
+SCRIPT:p2_endgame
+"Player 3 reached $40 000 ! ! !"
+End
+
+
+SCRIPT:p3 scripts 
+"=============================================================================================================================="
+End
+
+
+SCRIPT: p3_first_1k
+"Player 4 was the first to reach $1000"
+End
+
+SCRIPT: p3_first_2.5k
+"Player 4 was the first to reach $2500"
+End
+
+SCRIPT: p3_first_5k
+"Player 4 was the first to reach $5000"
+End
+
+SCRIPT: p3_first_10k
+"Player 4 was the first to reach $10.000"
+End
+
+SCRIPT: p3_first_20k
+"Player 4 was the first to reach $20.000"
+End
+
+SCRIPT: p3_first_30k
+"Player 4 was the first to reach $30.000"
+End
+
+
+
+SCRIPT:casino_p3_won_burton
+"Casino: Player 4 won a colonel Burton"
+End
+
+SCRIPT:casino_p3_won_scud
+"Casino: Player 4 won a scud launcher"
+End
+
+SCRIPT:casino_p3_won_sniper
+"Casino: Player 4 won a sniper"
+End
+
+SCRIPT:casino_p3_won_outpost
+"Casino: Player 4 won a listening outpost"
+End
+
+SCRIPT:casino_p3_won_usarmy
+"Casino: Player 4 won 2 paladin tanks"
+End
+
+SCRIPT:casino_p3_won_nukesuv
+"Casino: Player 4 won a nuke SUV !!!"
+End
+
+SCRIPT:casino_p3_won_troopcrawler
+"Casino: Player 4 won an assault troop crawler"
+End
+
+SCRIPT:casino_p3_lost
+"Casino: Player 4 is a loser"
+End
+
+SCRIPT:tech_casino_k1_p3
+"Research centre: Player 4 is researching China tank upgrades"
+End
+
+SCRIPT:tech_casino_k2_p3
+"Research centre: Player 4 is researching GLA toxin upgrades"
+End
+
+SCRIPT:alpha_warning_p3
+"Player 4 got an Alpha Aurora!"
+End
+
+SCRIPT:tech_casino_k4_p3
+"Research centre: Player 4 is researching GLA vehicle upgrades"
+End
+
+SCRIPT:tech_casino_k5_p3
+"Research centre: Player 4 is researching GLA armor piercing ammo"
+End
+
+SCRIPT:tech_casino_k6_p3
+"Research centre: Player 4 is researching GLA infantry upgrades"
+End
+
+SCRIPT:tech_casino_k7_p3
+"Research centre: Player 4 is researching GLA fortified structures"
+End
+
+SCRIPT:tech_casino_k8_p3
+"Research centre: Player 4 is researching USA airforce upgrades"
+End
+
+SCRIPT:nuke_warning_p3
+"Player 4 got a nuke truck!"
+End
+
+SCRIPT:tech_casino_k10_p3
+"Research centre: Player 4 is researching USA technology upgrades"
+End
+
+SCRIPT:tech_casino_k11_p3
+"Research centre: Player 4 is researching Chinese weapon upgrades"
+End
+
+SCRIPT:tech_casino_k12_p3
+"Research centre: Player 4 is researching nationalism and subliminal messaging"
+End
+
+p3_has_50000
+"Player 4 has $ 40 000 and will receive a hijacker every 30 seconds!"
+End
+
+p3_destroyed
+"Player 4 was defeated!"
+End
+
+SCRIPT: p3_too_much_money
+"Player 4 was destroyed by a teammate"
+End
+
+SCRIPT: p3_click_surrender
+"Player 4 pressed surrender. The teammate who received their resources will be destoyed."
+End
+
+SCRIPT:casino_p3_lost_kicked_drunk
+"Casino: Player 4 won an amphibious transport"
+End
+
+SCRIPT:casino_p3_lost_kicked_cheater
+"Casino: Player 4 won 2 humvee's"
+End
+
+SCRIPT:casino_p3_won_500
+"Casino: Player 4 won $1000"
+End
+
+SCRIPT:casino_p3_won_1000
+"Casino: Player 4 won $2000"
+End
+
+SCRIPT:casino_p3_won_1stealth_hijacker
+"Casino: Player 4 won 2 stealth hijackers"
+End
+
+SCRIPT:casino_p3_won_2stealth_hijacker
+"Casino: Player 4 won 3 stealth hijackers"
+End
+
+SCRIPT:casino_p3_won_aurora
+"Casino: Player 4 won 3 sentry drones"
+End
+
+SCRIPT:casino_p3_won_2demobikes
+"Casino: Player 4 won 3 demo bikes"
+End
+
+SCRIPT:casino_p3_won_3demobikes
+"Casino: Player 4 won 4 demo bikes"
+End
+
+
+SCRIPT:casino_p3_won_2hijackers
+"Casino: Player 4 won 3 hijackers (in store)"
+End
+
+SCRIPT:casino_p3_won_3hijackers
+"Casino: Player 4 won 4 hijackers (in store)"
+End
+
+SCRIPT:casino_p3_won_1saboteur
+"Casino: Player 4 won a saboteur (in store)"
+End
+
+SCRIPT:casino_p3_won_2saboteur
+"Casino: Player 4 won two saboteurs (in store)"
+End
+
+SCRIPT:casino_p3_won_bombtrucks
+"Casino: Player 4 won 2 bombtrucks"
+End
+
+SCRIPT:casino_p3_won_migs
+"Casino: Player 4 won a pair of stealth fighters"
+End
+
+SCRIPT:casino_p3_won_combatchinook
+"Casino: Player 4 won a combat chinook"
+End
+
+SCRIPT:casino_p3_won_nukecannon
+"Casino: Player 4 won a nuke cannon"
+End
+
+SCRIPT:casino_p3_won_angrymobs
+"Casino: player 4 won 2 angry mobs"
+End
+
+SCRIPT:casino_p3_won_emperortank
+"Casino: player 4 won an emperor tank"
+End
+
+SCRIPT:p3_endgame
+"Player 4 reached $40 000 ! ! !"
+End
+
+
+SCRIPT:p4 scripts 
+"=============================================================================================================================="
+End
+
+
+
+SCRIPT: p4_first_1k
+"Player 5 was the first to reach $1000"
+End
+
+SCRIPT: p4_first_2.5k
+"Player 5 was the first to reach $2500"
+End
+
+SCRIPT: p4_first_5k
+"Player 5 was the first to reach $5000"
+End
+
+SCRIPT: p4_first_10k
+"Player 5 was the first to reach $10.000"
+End
+
+SCRIPT: p4_first_20k
+"Player 5 was the first to reach $20.000"
+End
+
+SCRIPT: p4_first_30k
+"Player 5 was the first to reach $30.000"
+End
+
+
+SCRIPT:casino_p4_won_burton
+"Casino: Player 5 won a colonel Burton"
+End
+
+SCRIPT:casino_p4_won_scud
+"Casino: Player 5 won a scud launcher"
+End
+
+SCRIPT:casino_p4_won_sniper
+"Casino: Player 5 won a sniper"
+End
+
+SCRIPT:casino_p4_won_outpost
+"Casino: Player 5 won a listening outpost"
+End
+
+SCRIPT:casino_p4_won_usarmy
+"Casino: Player 5 won 2 paladin tanks"
+End
+
+SCRIPT:casino_p4_won_nukesuv
+"Casino: Player 5 won a nuke SUV !!!"
+End
+
+SCRIPT:casino_p4_won_troopcrawler
+"Casino: Player 5 won an assault troop crawler"
+End
+
+SCRIPT:casino_p4_lost
+"Casino: Player 5 is a loser"
+End
+
+SCRIPT:tech_casino_k1_p4
+"Research centre: Player 5 is researching China tank upgrades"
+End
+
+SCRIPT:tech_casino_k2_p4
+"Research centre: Player 5 is researching GLA toxin upgrades"
+End
+
+SCRIPT:alpha_warning_p4
+"Player 5 got an Alpha Aurora!"
+End
+
+SCRIPT:tech_casino_k4_p4
+"Research centre: Player 5 is researching GLA vehicle upgrades"
+End
+
+SCRIPT:tech_casino_k5_p4
+"Research centre: Player 5 is researching GLA armor piercing ammo"
+End
+
+SCRIPT:tech_casino_k6_p4
+"Research centre: Player 5 is researching GLA infantry upgrades"
+End
+
+SCRIPT:tech_casino_k7_p4
+"Research centre: Player 5 is researching GLA fortified structures"
+End
+
+SCRIPT:tech_casino_k8_p4
+"Research centre: Player 5 is researching USA airforce upgrades"
+End
+
+SCRIPT:nuke_warning_p4
+"Player 5 got a nuke truck!"
+End
+
+SCRIPT:tech_casino_k10_p4
+"Research centre: Player 5 is researching USA technology upgrades"
+End
+
+SCRIPT:tech_casino_k11_p4
+"Research centre: Player 5 is researching Chinese weapon upgrades"
+End
+
+SCRIPT:tech_casino_k12_p4
+"Research centre: Player 5 is researching nationalism and subliminal messaging"
+End
+
+p4_has_50000
+"Player 5 has $ 40 000 and will receive a hijacker every 30 seconds!"
+End
+
+p4_destroyed
+"Player 5 was defeated!"
+End
+
+SCRIPT: p4_too_much_money
+"Player 5 was destroyed by a teammate"
+End
+
+SCRIPT: p4_click_surrender
+"Player 5 pressed surrender. The teammate who received their resources will be destoyed."
+End
+
+SCRIPT:casino_p4_lost_kicked_drunk
+"Casino: Player 5 won an amphibious transport"
+End
+
+SCRIPT:casino_p4_lost_kicked_cheater
+"Casino: Player 5 won 2 humvee's"
+End
+
+SCRIPT:casino_p4_won_500
+"Casino: Player 5 won $1000"
+End
+
+SCRIPT:casino_p4_won_1000
+"Casino: Player 5 won $2000"
+End
+
+SCRIPT:casino_p4_won_1stealth_hijacker
+"Casino: Player 5 won 2 stealth hijackers"
+End
+
+SCRIPT:casino_p4_won_2stealth_hijacker
+"Casino: Player 5 won 3 stealth hijackers"
+End
+
+SCRIPT:casino_p4_won_aurora
+"Casino: Player 5 won 3 sentry drones"
+End
+
+SCRIPT:casino_p4_won_2demobikes
+"Casino: Player 5 won 3 demo bikes"
+End
+
+SCRIPT:casino_p4_won_3demobikes
+"Casino: Player 5 won 4 demo bikes"
+End
+
+
+SCRIPT:casino_p4_won_2hijackers
+"Casino: Player 5 won 3 hijackers (in store)"
+End
+
+SCRIPT:casino_p4_won_3hijackers
+"Casino: Player 5 won 4 hijackers (in store)"
+End
+
+SCRIPT:casino_p4_won_1saboteur
+"Casino: Player 5 won a saboteur (in store)"
+End
+
+SCRIPT:casino_p4_won_2saboteur
+"Casino: Player 5 won two saboteurs (in store)"
+End
+
+SCRIPT:casino_p4_won_bombtrucks
+"Casino: Player 5 won 2 bombtrucks"
+End
+
+SCRIPT:casino_p4_won_migs
+"Casino: Player 5 won a pair of stealth fighters"
+End
+
+SCRIPT:casino_p4_won_combatchinook
+"Casino: Player 5 won a combat chinook"
+End
+
+SCRIPT:casino_p4_won_nukecannon
+"Casino: Player 5 won a nuke cannon"
+End
+
+SCRIPT:casino_p4_won_angrymobs
+"Casino: player 5 won 2 angry mobs"
+End
+
+SCRIPT:casino_p4_won_emperortank
+"Casino: player 5 won an emperor tank"
+End
+
+SCRIPT:p4_endgame
+"Player 5 reached $40 000 ! ! !"
+End
+
+
+SCRIPT:p5 scripts 
+"=============================================================================================================================="
+End
+
+
+SCRIPT: p5_first_1k
+"Player 6 was the first to reach $1000"
+End
+
+SCRIPT: p5_first_2.5k
+"Player 6 was the first to reach $2500"
+End
+
+SCRIPT: p5_first_5k
+"Player 6 was the first to reach $5000"
+End
+
+SCRIPT: p5_first_10k
+"Player 6 was the first to reach $10.000"
+End
+
+SCRIPT: p5_first_20k
+"Player 6 was the first to reach $20.000"
+End
+
+SCRIPT: p5_first_30k
+"Player 6 was the first to reach $30.000"
+End
+
+
+SCRIPT:casino_p5_won_burton
+"Casino: Player 6 won a colonel Burton"
+End
+
+SCRIPT:casino_p5_won_scud
+"Casino: Player 6 won a scud launcher"
+End
+
+SCRIPT:casino_p5_won_sniper
+"Casino: Player 6 won a sniper"
+End
+
+SCRIPT:casino_p5_won_outpost
+"Casino: Player 6 won a listening outpost"
+End
+
+SCRIPT:casino_p5_won_usarmy
+"Casino: Player 6 won 2 paladin tanks"
+End
+
+SCRIPT:casino_p5_won_nukesuv
+"Casino: Player 6 won a nuke SUV !!!"
+End
+
+SCRIPT:casino_p5_won_troopcrawler
+"Casino: Player 6 won an assault troop crawler"
+End
+
+SCRIPT:casino_p5_lost
+"Casino: Player 6 is a loser"
+End
+
+SCRIPT:tech_casino_k1_p5
+"Research centre: Player 6 is researching China tank upgrades"
+End
+
+SCRIPT:tech_casino_k2_p5
+"Research centre: Player 6 is researching GLA toxin upgrades"
+End
+
+SCRIPT:alpha_warning_p5
+"Player 6 got an Alpha Aurora!"
+End
+
+SCRIPT:tech_casino_k4_p5
+"Research centre: Player 6 is researching GLA vehicle upgrades"
+End
+
+SCRIPT:tech_casino_k5_p5
+"Research centre: Player 6 is researching GLA armor piercing ammo"
+End
+
+SCRIPT:tech_casino_k6_p5
+"Research centre: Player 6 is researching GLA infantry upgrades"
+End
+
+SCRIPT:tech_casino_k7_p5
+"Research centre: Player 6 is researching GLA fortified structures"
+End
+
+SCRIPT:tech_casino_k8_p5
+"Research centre: Player 6 is researching USA airforce upgrades"
+End
+
+SCRIPT:nuke_warning_p5
+"Player 6 got a nuke truck!"
+End
+
+SCRIPT:tech_casino_k10_p5
+"Research centre: Player 6 is researching USA technology upgrades"
+End
+
+SCRIPT:tech_casino_k11_p5
+"Research centre: Player 6 is researching Chinese weapon upgrades"
+End
+
+SCRIPT:tech_casino_k12_p5
+"Research centre: Player 6 is researching nationalism and subliminal messaging"
+End
+
+p5_has_50000
+"Player 6 has $ 40 000 and will receive a hijacker every 30 seconds!"
+End
+
+p5_destroyed
+"Player 6 was defeated!"
+End
+
+SCRIPT: p5_too_much_money
+"Player 6 was destroyed by a teammate"
+End
+
+SCRIPT: p5_click_surrender
+"Player 6 pressed surrender. The teammate who received their resources will be destoyed."
+End
+
+SCRIPT:casino_p5_lost_kicked_drunk
+"Casino: Player 6 won an amphibious transport"
+End
+
+SCRIPT:casino_p5_lost_kicked_cheater
+"Casino: Player 6 won 2 humvee's"
+End
+
+SCRIPT:casino_p5_won_500
+"Casino: Player 6 won $1000"
+End
+
+SCRIPT:casino_p5_won_1000
+"Casino: Player 6 won $2000"
+End
+
+SCRIPT:casino_p5_won_1stealth_hijacker
+"Casino: Player 6 won 2 stealth hijackers"
+End
+
+SCRIPT:casino_p5_won_2stealth_hijacker
+"Casino: Player 6 won 3 stealth hijackers"
+End
+
+SCRIPT:casino_p5_won_aurora
+"Casino: Player 6 won 3 sentry drones"
+End
+
+SCRIPT:casino_p5_won_2demobikes
+"Casino: Player 6 won 3 demo bikes"
+End
+
+SCRIPT:casino_p5_won_3demobikes
+"Casino: Player 6 won 4 demo bikes"
+End
+
+
+SCRIPT:casino_p5_won_2hijackers
+"Casino: Player 6 won 3 hijackers (in store)"
+End
+
+SCRIPT:casino_p5_won_3hijackers
+"Casino: Player 6 won 4 hijackers (in store)"
+End
+
+SCRIPT:casino_p5_won_1saboteur
+"Casino: Player 6 won a saboteur (in store)"
+End
+
+SCRIPT:casino_p5_won_2saboteur
+"Casino: Player 6 won two saboteurs (in store)"
+End
+
+SCRIPT:casino_p5_won_bombtrucks
+"Casino: Player 6 won 2 bombtrucks"
+End
+
+SCRIPT:casino_p5_won_migs
+"Casino: Player 6 won a pair of stealth fighters"
+End
+
+SCRIPT:casino_p5_won_combatchinook
+"Casino: Player 6 won a combat chinook"
+End
+
+SCRIPT:casino_p5_won_nukecannon
+"Casino: Player 6 won a nuke cannon"
+End
+
+SCRIPT:casino_p5_won_angrymobs
+"Casino: player 6 won 2 angry mobs"
+End
+
+SCRIPT:casino_p5_won_emperortank
+"Casino: player 6 won an emperor tank"
+End
+
+SCRIPT:p5_endgame
+"Player 6 reached $40 000 ! ! !"
+End
+  
+  
+SCRIPT:ADDITIONS
+"================================================================++++=============================================================="
+End
+
+SCRIPT:p0_selfdestruct
+"Player 1 initiated self-destruct ! ! !"
+End
+
+SCRIPT:p1_selfdestruct
+"Player 2 initiated self-destruct ! ! !"
+End
+
+SCRIPT:p2_selfdestruct
+"Player 3 initiated self-destruct ! ! !"
+End
+
+SCRIPT:p3_selfdestruct
+"Player 4 initiated self-destruct ! ! !"
+End
+
+SCRIPT:p4_selfdestruct
+"Player 5 initiated self-destruct ! ! !"
+End
+
+SCRIPT:p5_selfdestruct
+"Player 6 initiated self-destruct ! ! !"
+End
+

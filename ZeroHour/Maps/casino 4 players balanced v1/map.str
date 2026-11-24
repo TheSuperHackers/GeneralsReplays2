@@ -1,0 +1,271 @@
+SCRIPT: oilderick_timer1
+"Oil Derrick:"
+End
+
+SCRIPT: oilderick_timer2
+"Oil Derrick:"
+End
+
+SCRIPT: oilderick_timer3
+"Oil Derrick:"
+End
+
+SCRIPT: casino_timer1
+"Casino 1:"
+End
+
+SCRIPT: casino_timer2
+"Casino 2:"
+End
+
+SCRIPT: casino_timer3
+"Casino 3:"
+End
+
+SCRIPT: casino_timer4
+"Casino 4:"
+End
+
+SCRIPT: casino_timer5
+"Casino 5:"
+End
+
+intro
+"Map made by Dirtbag. Modified by Haubibban."
+End
+
+intro2
+"Enter Casino building to get units or money!"
+End
+
+Intro3
+"Auroras, Superweapons, Carpet for AFG and Demolition Upgrade are disabled!"
+End
+
+MM1
+"Secondary Economy Enabled!"
+End
+
+MM2
+"Secondary Economy Disabled!"
+End
+
+Burton fight's for player 1! Watch out!
+"Player 1 has won a Colonel Burton!"
+End
+
+Burton fight's for player 2! Watch out!
+"Player 2 has won a Colonel Burton!"
+End
+
+Burton fight's for player 3! Watch out!
+"Player 3 has won a Colonel Burton!"
+End
+
+Burton fight's for player 4! Watch out!
+"Player 4 has won a Colonel Burton!"
+End
+
+Burton fight's for player 5! Watch out!
+"Player 5 has won a Colonel Burton!"
+End
+
+Lotus fight's for player 1! Watch out!
+"Player 1 has won a Black Lotus!"
+End
+
+Lotus fight's for player 2! Watch out!
+"Player 2 has won a Black Lotus!"
+End
+
+Lotus fight's for player 3! Watch out!
+"Player 3 has won a Black Lotus!"
+End
+
+Lotus fight's for player 4! Watch out!
+"Player 4 has won a Black Lotus!"
+End
+
+Lotus fight's for player 5! Watch out!
+"Player 5 has won a Black Lotus!"
+End
+
+Jarmen fight's for player 1! Watch out!
+"Player 1 has won a Demo Jarmen Kell!"
+End
+
+Jarmen fight's for player 2! Watch out!
+"Player 2 has won a Demo Jarmen Kell!"
+End
+
+Jarmen fight's for player 3! Watch out!
+"Player 3 has won a Demo Jarmen Kell!"
+End
+
+Jarmen fight's for player 4! Watch out!
+"Player 4 has won a Demo Jarmen Kell!"
+End
+
+Jarmen fight's for player 5! Watch out!
+"Player 5 has won a Demo Jarmen Kell!"
+End
+
+Player 1 has Assault Helix!
+"Player 1 has won a Helix!"
+End
+
+Player 2 has Assault Helix!
+"Player 2 has won a Helix!"
+End
+
+Player 3 has Assault Helix!
+"Player 3 has won a Helix!"
+End
+
+Player 4 has Assault Helix!
+"Player 4 has won a Helix!"
+End
+
+Player 5 has Assault Helix!
+"Player 5 has won a Helix!"
+End
+
+Player 1 has Boss Dozer!!!
+"HOLY JESUS! PLAYER 1 HAS WON A BOSS DOZER!"
+End
+
+Player 2 has Boss Dozer!!!
+"HOLY JESUS! PLAYER 2 HAS WON A BOSS DOZER!"
+End
+
+Player 3 has Boss Dozer!!!
+"HOLY JESUS! PLAYER 3 HAS WON A BOSS DOZER!"
+End
+
+Player 4 has Boss Dozer!!!
+"HOLY JESUS! PLAYER 4 HAS WON A BOSS DOZER!"
+End
+
+Player 5 has Boss Dozer!!!
+"HOLY JESUS! PLAYER 5 HAS WON A BOSS DOZER!"
+End
+
+We have a $1500 Winner at Casino One!
+"Player 1 has won 1500$"
+End
+
+We have a $1500 Winner at Casino Two!
+"Player 2 has won 1500$"
+End
+
+We have a $1500 Winner at Casino Three!
+"Player 3 has won 1500$"
+End
+
+We have a $1500 Winner at Casino Four!
+"Player 4 has won 1500$"
+End
+
+We have a $1500 Winner at Casino Five!
+"Player 5 has won 1500$"
+End
+
+We have a $3000 Winner at Casino One!
+"Jackpot! Player 1 has won 5000$"
+End
+
+We have a $3000 Winner at Casino Two!
+"Jackpot! Player 2 has won 5000$"
+End
+
+We have a $3000 Winner at Casino Three!
+"Jackpot! Player 3 has won 5000$"
+End
+
+We have a $3000 Winner at Casino Four!
+"Jackpot! Player 4 has won 5000$"
+End
+
+We have a $3000 Winner at Casino Five!
+"Jackpot! Player 5 has won 5000$"
+End
+
+We have a $2500 Winner at Casino One!
+"Player 1 has won 2500$"
+End
+
+We have a $2500 Winner at Casino Two!
+"Player 2 has won 2500$"
+End
+
+We have a $2500 Winner at Casino Three!
+"Player 3 has won 2500$"
+End
+
+We have a $2500 Winner at Casino Four!
+"Player 4 has won 2500$"
+End
+
+We have a $2500 Winner at Casino Five!
+"Player 5 has won 2500$"
+End
+
+3000_1
+"Player 1 has won 3000$"
+End
+
+3000_2
+"Player 2 has won 3000$"
+End
+
+3000_3
+"Player 3 has won 3000$"
+End
+
+3000_4
+"Player 4 has won 3000$"
+End
+
+3000_5
+"Player 5 has won 3000$"
+End
+
+Bombers1
+"Player 1 has won some explosives"
+End
+
+Bombers2
+"Player 2 has won some explosives"
+End
+
+Bombers3
+"Player 3 has won some explosives"
+End
+
+Bombers4
+"Player 4 has won some explosives"
+End
+
+Bombers5
+"Player 5 has won some explosives"
+End
+
+Hack1
+"Player 1 has won some Super Hackers!"
+End
+
+Hack2
+"Player 2 has won some Super Hackers!"
+End
+
+Hack3
+"Player 3 has won some Super Hackers!"
+End
+
+Hack4
+"Player 4 has won some Super Hackers!"
+End
+
+Hack5
+"Player 5 has won some Super Hackers!"
+End

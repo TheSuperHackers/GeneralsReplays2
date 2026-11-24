@@ -1,0 +1,155 @@
+
+
+SCRIPT:TestTime
+"Test Time :"
+End
+
+Intro:00
+"Merhaba, Willkommen, Slm, Dobro Pozhalovat, Welcome to Pasha's Fire Circle Battlefield"
+End
+
+Intro:11
+"The second Command Center is not ALLOWED. 
+\n It'is Waste of Money 
+\n Are You Noob to Built Second Command Center?"
+End
+
+
+Intro:01
+"Army Waves will randomly attack your base from out of circle. 
+\n You are defeated !!! 
+\n if any unit arrives in the middle area."
+End
+
+Intro:02
+"The Stealth waves will circle around your bases, 
+\n You are defeated !!! 
+\n If they complete the tour."
+End
+
+Intro:03
+"The Air waves will circle around your bases, 
+\n You are defeated !!! 
+\n If they complete the tour."
+End
+
+Intro:04
+"The Pasha's GLA Tunnel Sneak Attacks will pop up in your bases. 
+\n Do not lose your Command Center !!! 
+\n You know what happens if you lose your command center"
+End
+
+Intro:05
+"The Bosses will circle around your bases,  
+\n You are defeated !!! 
+\n If they complete the tour."
+End
+
+Intro:06
+"Good luck Noobs 
+\n You will need it."
+End
+
+Intro:07
+"AOD Pasha's Fire Circle (No Laser - EMP Patriots)(AI USA) Beta v00 map made by Pasha at Oct 21, 2023 
+\n Pasha thanks to Kojiyan, Gora, AnDiArbiet, [EVO]BLooD^ and the others for testing map."
+End
+
+SCRIPT:Coundown1
+"Time To First Wave :"
+End
+
+SCRIPT:Round1
+"Time To Round First Wave :"
+End
+
+SCRIPT:Coundown2
+"Time to Wave 2 :"
+End
+
+SCRIPT:Coundown3
+"Time to Wave 3 :"
+End
+
+SCRIPT:Coundown4
+"Time to Wave 4 :"
+End
+
+SCRIPT:Coundown5
+"Time to Wave 5 :"
+End
+
+SCRIPT:Coundown6
+"Time to Wave 6 :"
+End
+
+SCRIPT:Coundown7
+"Time to Wave 7 :"
+End
+
+SCRIPT:Coundown8
+"Time to Wave 8 :"
+End
+
+SCRIPT:Coundown9
+"Time to Wave 9 :"
+End
+
+SCRIPT:Coundown10
+"Time to Wave 10 :"
+End
+
+SCRIPT:Coundown0
+"Time to END :"
+End
+
+SCRIPT:CoundownB1
+"Time to First Boss :"
+End
+
+SCRIPT:CoundownB2
+"Time to Second Boss :"
+End
+
+SCRIPT:CoundownB3
+"Time to Final Boss :"
+End
+
+SCRIPT:CoundownA1
+"Time to Air Strike 1 :"
+End
+SCRIPT:CoundownA2
+"Time to Air Strike 2 :"
+End
+
+SCRIPT:CoundownA3
+"Time to Air Strike 3 :"
+End
+
+SCRIPT:CoundownT1
+"Time to Sneak Tunnel Attack 1 :"
+End
+
+SCRIPT:CoundownT2
+"Time to Sneak Tunnel Attack 2 :"
+End
+
+SCRIPT:CoundownTT2
+"Time to Spy Activities 2 :"
+End
+
+SCRIPT:CoundownW3
+"Time to Wing Attack 3 :"
+End
+
+SCRIPT:CoundownR1
+"Round 1 Time to Run After Stealth Bikes :"
+End
+
+SCRIPT:CoundownR2
+"Round 2 Time to Run After Stealths :"
+End
+
+SCRIPT:CoundownR3
+"Round 3 Time to Run After ;)   :"
+End

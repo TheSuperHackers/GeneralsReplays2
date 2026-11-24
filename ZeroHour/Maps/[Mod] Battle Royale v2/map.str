@@ -1,0 +1,42 @@
+SCRIPT:TimerName1
+"time until the water level rises " 
+End
+SCRIPT:TimerName2
+"rest time: " 
+End
+SCRIPT:TimerName3
+"Wave: " 
+End
+SCRIPT:TimerName4
+"time until the next bonus p4: " 
+End
+SCRIPT:TimerName2-1
+"time to spawn house p1: " 
+End
+SCRIPT:TimerName2-2
+"time to spawn house p2: " 
+End
+SCRIPT:TimerName2-3
+"time to spawn house p3: " 
+End
+SCRIPT:TimerName2-4
+"time to spawn house p4: " 
+End
+Drop
+"Airdrop incoming! Be the first one to take it!"
+End
+DropV2
+"Vehicle Airdrop incoming!"
+End
+Briefing0
+"occupy the building to receive units"
+End
+Briefing1
+"over time, the water level will rise to the highest point of the game"
+End
+Briefing2
+"stay alive alone or board a chinook and you will win"
+End
+WARNING
+"WARNING water level has risen!!!"
+End

@@ -1,0 +1,56 @@
+Map Name: 	AOD Pasha's Pentagram (V02) [pashacnc com]
+Author Name: 	Pasha
+Author Mail: 	[email redacted]
+Max. Players:	5
+Game:		C&C Generals: Zero Hour
+Type of Map: 	Art of Defence (AOD)
+Description: 	Players will try to survive against AI attacks.
+
+*******************************************************************************************************
+WHATS NEW V02 VERSION (June 2019);
+Map became "Brutal"
+Time intervals between waves reduced to 60 second
+All AI units upgraded
+The Player's money set to $80.000
+"Players are defeated if they lose their command center" scripts are added
+Added scripts for "No attack to defeated players spot"
+"Easy Army" and "Medium Army" removed
+Display "Time To" between waves added.
+New Final Wave scripts added
+Some bugs are fixed
+
+********************************************************************************************************
+
+A Survival AOD Map for 5 Players, 400x400 sized, Normal weather, Afternoon time, Shrouded when started. 
+Bugs in previous version fixed and waves reorganized.
+Players have 3 options for difficulty of map as Easy, Medium and Hard Army depending on how skilled they are.  
+
+* Easy Army; Waves period is 150 seconds and No Sneak attacks,
+* Medium Army; Waves period is 90 seconds and 9 Sneak attacks,
+* Hard Army; Waves period is 75 seconds and 9 Sneak attacks for "Proplayers ONLY"
+
+AI must be GLA and place at lower left corner.
+
+There are 5 bases and each player has a crate having 50,000  dollars worth close to Command Center and  a supply pile having 100,000  dollars worth of boxes at the middle of Pentagram.
+Plenty of room to build, plenty of money to survive against AI.
+
+The 10 Waves of AI come from the sides of Pentagram battlefield.
+The 9 Sneak Attacks of AI come from all around Pentagram Battlefield even from the middle of Pentagram
+AI attacks are RANDOM. The different teams can come from different directions in each game. It makes map exciting for each play.
+
+TO WIN; 
+Players must survive against AI attacks and kill ALL AI units until time counter become "Pilots Remaining : 00:00"
+
+You LOOSE;
+* if You can NOT survive until the game end
+* if Players can NOT kill ALL AI units on the "Pentagram Battlefield" until time counter become "Pilots Remaining : 00:00"
+
+Please do not hesitate to contact with me about bugs and my mistakes on map. 
+
+I wish you good luck and have fun Generals.
+
+V03 UPDATE:
+Chinooks in area5 reposition.
+
+Pasha ;)
+e-mail; [email redacted]

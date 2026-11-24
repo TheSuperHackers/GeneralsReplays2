@@ -1,0 +1,99 @@
+Giris:01
+"Merhaba, Welcome to Pasha's Pentagram Battlefield, General! \n or I should say Welcome to H.E.L.L !!!"
+End
+
+Giris:02
+"Mission: Build and Defend your Base, General! \n and struggle for SURVIVAL !!! if you can"
+End
+
+Giris:03
+"10 Waves and 9 Sneak Attacks will come from everywhere, General! \n try to STAND !!! if you can"
+End
+
+Giris:04
+"To win, You Have to clean up Pentagram from enemy units before Escaped U.S. Forces : 00:00, General! \n don't be REDICULOUS !!! you can't SURVIVE"
+End
+
+Giris:05
+"You will need a prayer book right now, General! \n it is time to quake in one's shoes NOOBS !!!"
+End
+
+SCRIPT:WT1
+"Time To Wave 1: "
+END
+ 
+SCRIPT:ST1
+"Time To Sneak Attack 1: "
+END
+
+SCRIPT:WT2
+"Time To Wave 2: "
+END
+
+SCRIPT:ST2
+"Time To Sneak Attack 2: "
+END
+
+SCRIPT:WT3
+"Time To Wave 3: "
+END
+
+SCRIPT:ST3
+"Time To Sneak Attack 3: "
+END
+
+SCRIPT:WT4
+"Time To Wave 4: "
+END
+
+SCRIPT:ST4
+"Time To Sneak Attack 4: "
+END
+
+SCRIPT:WT5
+"Time To Wave 5: "
+END
+
+SCRIPT:ST5
+"Time To Comanches Attack 5: "
+END
+
+SCRIPT:WT6
+"Time To Wave 6: "
+END
+
+SCRIPT:ST6
+"Time To Sneak Attack 6: "
+END
+
+SCRIPT:WT7
+"Time To Wave 7: "
+END
+
+SCRIPT:ST7
+"Time To Sneak Attack 7: "
+END
+
+SCRIPT:WT8
+"Time To Wave 8: "
+END
+
+SCRIPT:ST8
+"Time To Sneak Attack 8 : "
+END
+
+SCRIPT:WT9
+"Time To Wave 9: "
+END
+
+SCRIPT:ST9
+"Time To Sneak Attack 9 : "
+END
+
+SCRIPT:WTF
+"Time To Final Wave: "
+END
+
+SCRIPT:VictoryTime
+"Time To Victorious: "
+END

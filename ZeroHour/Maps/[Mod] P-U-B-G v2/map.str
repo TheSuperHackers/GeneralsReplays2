@@ -1,0 +1,19 @@
+SCRIPT:GetFunds
+"Now You can get Extra Funds from the Center of the Map! " 
+END
+Map made by cetx
+"Map made by cetx & StaZzz \n Special thanks: SPL, Bombay" 
+END
+SCRIPT:WARNING
+"ATTENTION the Water Level is Rising! " 
+END
+SCRIPT:TimerName1
+"The Water Level will Rise in: " 
+END
+SCRIPT:TimerName3
+"Wave: " 
+END
+SCRIPT:TEST
+"TEST" 
+END
+

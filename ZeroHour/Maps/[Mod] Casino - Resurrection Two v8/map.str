@@ -1,0 +1,862 @@
+Resurrection Two - Casino by Haubibban & cetx
+"Resurrection Two - Casino by Haubibban & cetx"
+END
+
+Enter Casino building to get units or money!
+"Enter Casino building to get units or money!"
+END
+
+Secondary Economy is available only when there're 3 Oil Derricks in the middle!
+"Secondary Economy is available only when there're 3 Oil Derricks in the middle!"
+END
+
+For more info please examine the ReadMe file in the map folder!
+"For more info please examine the ReadMe file in the map folder!"
+END
+
+Good Luck, Generals!
+"Good Luck, Generals!"
+END
+
+SCRIPT:CasinoDropKingRaptorsPlayer0
+"Player 1 has won King Raptors"
+END
+
+SCRIPT:CasinoDropKingRaptorsPlayer1
+"Player 2 has won King Raptors"
+END
+
+SCRIPT:CasinoDropKingRaptorsPlayer2
+"Player 3 has won King Raptors"
+END
+
+SCRIPT:CasinoDropKingRaptorsPlayer3
+"Player 4 has won King Raptors"
+END
+
+SCRIPT:CasinoDropKingRaptorsPlayer4
+"Player 5 has won King Raptors"
+END
+
+SCRIPT:CasinoDropKingRaptorsPlayer5
+"Player 6 has won King Raptors"
+END
+
+SCRIPT:CasinoDropStealthComanchePlayer0
+"Player 1 has won Stealth Comanches"
+END
+
+SCRIPT:CasinoDropStealthComanchePlayer1
+"Player 2 has won Stealth Comanches"
+END
+
+SCRIPT:CasinoDropStealthComanchePlayer2
+"Player 3 has won Stealth Comanches"
+END
+
+SCRIPT:CasinoDropStealthComanchePlayer3
+"Player 4 has won Stealth Comanches"
+END
+
+SCRIPT:CasinoDropStealthComanchePlayer4
+"Player 5 has won Stealth Comanches"
+END
+
+SCRIPT:CasinoDropStealthComanchePlayer5
+"Player 6 has won Stealth Comanches"
+END
+
+SCRIPT:CasinoDropTankHelixPlayer0
+"Player 1 has won a Helix"
+END
+
+SCRIPT:CasinoDropTankHelixPlayer1
+"Player 2 has won a Helix"
+END
+
+SCRIPT:CasinoDropTankHelixPlayer2
+"Player 3 has won a Helix"
+END
+
+SCRIPT:CasinoDropTankHelixPlayer3
+"Player 4 has won a Helix"
+END
+
+SCRIPT:CasinoDropTankHelixPlayer4
+"Player 5 has won a Helix"
+END
+
+SCRIPT:CasinoDropTankHelixPlayer5
+"Player 6 has won a Helix"
+END
+
+SCRIPT:CasinoDropInfantryHelixPlayer0
+"Player 1 has won an Assault Helix"
+END
+
+SCRIPT:CasinoDropInfantryHelixPlayer1
+"Player 2 has won an Assault Helix"
+END
+
+SCRIPT:CasinoDropInfantryHelixPlayer2
+"Player 3 has won an Assault Helix"
+END
+
+SCRIPT:CasinoDropInfantryHelixPlayer3
+"Player 4 has won an Assault Helix"
+END
+
+SCRIPT:CasinoDropInfantryHelixPlayer4
+"Player 5 has won an Assault Helix"
+END
+
+SCRIPT:CasinoDropInfantryHelixPlayer5
+"Player 6 has won an Assault Helix"
+END
+
+SCRIPT:CasinoDropTacticalGroupPlayer0
+"Player 1 has won a Tactical Group"
+END
+
+SCRIPT:CasinoDropTacticalGroupPlayer1
+"Player 2 has won a Tactical Group"
+END
+
+SCRIPT:CasinoDropTacticalGroupPlayer2
+"Player 3 has won a Tactical Group"
+END
+
+SCRIPT:CasinoDropTacticalGroupPlayer3
+"Player 4 has won a Tactical Group"
+END
+
+SCRIPT:CasinoDropTacticalGroupPlayer4
+"Player 5 has won a Tactical Group"
+END
+
+SCRIPT:CasinoDropTacticalGroupPlayer5
+"Player 6 has won a Tactical Group"
+END
+
+SCRIPT:CasinoDropExplosivesPlayer0
+"Player 1 has won some explosives"
+END
+
+SCRIPT:CasinoDropExplosivesPlayer1
+"Player 2 has won some explosives"
+END
+
+SCRIPT:CasinoDropExplosivesPlayer2
+"Player 3 has won some explosives"
+END
+
+SCRIPT:CasinoDropExplosivesPlayer3
+"Player 4 has won some explosives"
+END
+
+SCRIPT:CasinoDropExplosivesPlayer4
+"Player 5 has won some explosives"
+END
+
+SCRIPT:CasinoDropExplosivesPlayer5
+"Player 6 has won some explosives"
+END
+
+SCRIPT:CasinoDropStealthBattleBusPlayer0
+"Player 1 has won Stealth Battlebus"
+END
+
+SCRIPT:CasinoDropStealthBattleBusPlayer1
+"Player 2 has won Stealth Battlebus"
+END
+
+SCRIPT:CasinoDropStealthBattleBusPlayer2
+"Player 3 has won Stealth Battlebus"
+END
+
+SCRIPT:CasinoDropStealthBattleBusPlayer3
+"Player 4 has won Stealth Battlebus"
+END
+
+SCRIPT:CasinoDropStealthBattleBusPlayer4
+"Player 5 has won Stealth Battlebus"
+END
+
+SCRIPT:CasinoDropStealthBattleBusPlayer5
+"Player 6 has won Stealth Battlebus"
+END
+
+SCRIPT:CasinoDropAntiAirPlayer0
+"Player 1 has won some Anti-Air"
+END
+
+SCRIPT:CasinoDropAntiAirPlayer1
+"Player 2 has won some Anti-Air"
+END
+
+SCRIPT:CasinoDropAntiAirPlayer2
+"Player 3 has won some Anti-Air"
+END
+
+SCRIPT:CasinoDropAntiAirPlayer3
+"Player 4 has won some Anti-Air"
+END
+
+SCRIPT:CasinoDropAntiAirPlayer4
+"Player 5 has won some Anti-Air"
+END
+
+SCRIPT:CasinoDropAntiAirPlayer5
+"Player 6 has won some Anti-Air"
+END
+
+SCRIPT:CasinoDropOverlordsPlayer0
+"Player 1 has won Overlords"
+END
+
+SCRIPT:CasinoDropOverlordsPlayer1
+"Player 2 has won Overlords"
+END
+
+SCRIPT:CasinoDropOverlordsPlayer2
+"Player 3 has won Overlords"
+END
+
+SCRIPT:CasinoDropOverlordsPlayer3
+"Player 4 has won Overlords"
+END
+
+SCRIPT:CasinoDropOverlordsPlayer4
+"Player 5 has won Overlords"
+END
+
+SCRIPT:CasinoDropOverlordsPlayer5
+"Player 6 has won Overlords"
+END
+
+SCRIPT:CasinoDropNukeOverlordsPlayer0
+"Player 1 has won Nuke Overlords"
+END
+
+SCRIPT:CasinoDropNukeOverlordsPlayer1
+"Player 2 has won Nuke Overlords"
+END
+
+SCRIPT:CasinoDropNukeOverlordsPlayer2
+"Player 3 has won Nuke Overlords"
+END
+
+SCRIPT:CasinoDropNukeOverlordsPlayer3
+"Player 4 has won Nuke Overlords"
+END
+
+SCRIPT:CasinoDropNukeOverlordsPlayer4
+"Player 5 has won Nuke Overlords"
+END
+
+SCRIPT:CasinoDropNukeOverlordsPlayer5
+"Player 6 has won Nuke Overlords"
+END
+
+SCRIPT:CasinoDropEmperorsPlayer0
+"Player 1 has won Emperors"
+END
+
+SCRIPT:CasinoDropEmperorsPlayer1
+"Player 2 has won Emperors"
+END
+
+SCRIPT:CasinoDropEmperorsPlayer2
+"Player 3 has won Emperors"
+END
+
+SCRIPT:CasinoDropEmperorsPlayer3
+"Player 4 has won Emperors"
+END
+
+SCRIPT:CasinoDropEmperorsPlayer4
+"Player 5 has won Emperors"
+END
+
+SCRIPT:CasinoDropEmperorsPlayer5
+"Player 6 has won Emperors"
+END
+
+SCRIPT:CasinoDropStealthTechnicalsPlayer0
+"Player 1 has won Stealth Technicals"
+END
+
+SCRIPT:CasinoDropStealthTechnicalsPlayer1
+"Player 2 has won Stealth Technicals"
+END
+
+SCRIPT:CasinoDropStealthTechnicalsPlayer2
+"Player 3 has won Stealth Technicals"
+END
+
+SCRIPT:CasinoDropStealthTechnicalsPlayer3
+"Player 4 has won Stealth Technicals"
+END
+
+SCRIPT:CasinoDropStealthTechnicalsPlayer4
+"Player 5 has won Stealth Technicals"
+END
+
+SCRIPT:CasinoDropStealthTechnicalsPlayer5
+"Player 6 has won Stealth Technicals"
+END
+
+SCRIPT:CasinoDropMaraudersPlayer0
+"Player 1 has won Marauders with Pilots"
+END
+
+SCRIPT:CasinoDropMaraudersPlayer1
+"Player 2 has won Marauders with Pilots"
+END
+
+SCRIPT:CasinoDropMaraudersPlayer2
+"Player 3 has won Marauders with Pilots"
+END
+
+SCRIPT:CasinoDropMaraudersPlayer3
+"Player 4 has won Marauders with Pilots"
+END
+
+SCRIPT:CasinoDropMaraudersPlayer4
+"Player 5 has won Marauders with Pilots"
+END
+
+SCRIPT:CasinoDropMaraudersPlayer5
+"Player 6 has won Marauders with Pilots"
+END
+
+SCRIPT:CasinoDropAngryMobsAndStealthOverlordPlayer0
+"Player 1 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:CasinoDropAngryMobsAndStealthOverlordPlayer1
+"Player 2 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:CasinoDropAngryMobsAndStealthOverlordPlayer2
+"Player 3 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:CasinoDropAngryMobsAndStealthOverlordPlayer3
+"Player 4 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:CasinoDropAngryMobsAndStealthOverlordPlayer4
+"Player 5 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:CasinoDropAngryMobsAndStealthOverlordPlayer5
+"Player 6 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:CasinoDropStealthTomahawkPlayer0
+"Player 1 has won Stealth Tomahawks"
+END
+
+SCRIPT:CasinoDropStealthTomahawkPlayer1
+"Player 2 has won Stealth Tomahawks"
+END
+
+SCRIPT:CasinoDropStealthTomahawkPlayer2
+"Player 3 has won Stealth Tomahawks"
+END
+
+SCRIPT:CasinoDropStealthTomahawkPlayer3
+"Player 4 has won Stealth Tomahawks"
+END
+
+SCRIPT:CasinoDropStealthTomahawkPlayer4
+"Player 5 has won Stealth Tomahawks"
+END
+
+SCRIPT:CasinoDropStealthTomahawkPlayer5
+"Player 6 has won Stealth Tomahawks"
+END
+
+SCRIPT:CasinoDropVanillaScudsPlayer0
+"Player 1 has won Scud Launchers"
+END
+
+SCRIPT:CasinoDropVanillaScudsPlayer1
+"Player 2 has won Scud Launchers"
+END
+
+SCRIPT:CasinoDropVanillaScudsPlayer2
+"Player 3 has won Scud Launchers"
+END
+
+SCRIPT:CasinoDropVanillaScudsPlayer3
+"Player 4 has won Scud Launchers"
+END
+
+SCRIPT:CasinoDropVanillaScudsPlayer4
+"Player 5 has won Scud Launchers"
+END
+
+SCRIPT:CasinoDropVanillaScudsPlayer5
+"Player 6 has won Scud Launchers"
+END
+
+SCRIPT:CasinoDropStealthBuggiesPlayer0
+"Player 1 has won Stealth Buggies"
+END
+
+SCRIPT:CasinoDropStealthBuggiesPlayer1
+"Player 2 has won Stealth Buggies"
+END
+
+SCRIPT:CasinoDropStealthBuggiesPlayer2
+"Player 3 has won Stealth Buggies"
+END
+
+SCRIPT:CasinoDropStealthBuggiesPlayer3
+"Player 4 has won Stealth Buggies"
+END
+
+SCRIPT:CasinoDropStealthBuggiesPlayer4
+"Player 5 has won Stealth Buggies"
+END
+
+SCRIPT:CasinoDropStealthBuggiesPlayer5
+"Player 6 has won Stealth Buggies"
+END
+
+SCRIPT:CasinoDrop5000Player0
+"Player 1 has won 5000$"
+END
+
+SCRIPT:CasinoDrop5000Player1
+"Player 2 has won 5000$"
+END
+
+SCRIPT:CasinoDrop5000Player2
+"Player 3 has won 5000$"
+END
+
+SCRIPT:CasinoDrop5000Player3
+"Player 4 has won 5000$"
+END
+
+SCRIPT:CasinoDrop5000Player4
+"Player 5 has won 5000$"
+END
+
+SCRIPT:CasinoDrop5000Player5
+"Player 6 has won 5000$"
+END
+
+SCRIPT:CasinoDropDemoJarmenPlayer0
+"Player 1 has won Demo Jarmen and Combat Cycle"
+END
+
+SCRIPT:CasinoDropDemoJarmenPlayer1
+"Player 2 has won Demo Jarmen and Combat Cycle"
+END
+
+SCRIPT:CasinoDropDemoJarmenPlayer2
+"Player 3 has won Demo Jarmen and Combat Cycle"
+END
+
+SCRIPT:CasinoDropDemoJarmenPlayer3
+"Player 4 has won Demo Jarmen and Combat Cycle"
+END
+
+Chaos!
+"Aurora Alphas can now be built in Command Centers!"
+END
+
+SCRIPT:CasinoDropDemoJarmenPlayer4
+"Player 5 has won Demo Jarmen and Combat Cycle"
+END
+
+SCRIPT:CasinoDropDemoJarmenPlayer5
+"Player 6 has won Demo Jarmen and Combat Cycle"
+END
+
+SCRIPT:CasinoDropHackersPlayer0
+"Player 1 has won Hackers"
+END
+
+SCRIPT:CasinoDropHackersPlayer1
+"Player 2 has won Hackers"
+END
+
+SCRIPT:CasinoDropHackersPlayer2
+"Player 3 has won Hackers"
+END
+
+SCRIPT:CasinoDropHackersPlayer3
+"Player 4 has won Hackers"
+END
+
+SCRIPT:CasinoDropHackersPlayer4
+"Player 5 has won Hackers"
+END
+
+SCRIPT:CasinoDropHackersPlayer5
+"Player 6 has won Hackers"
+END
+
+SCRIPT:CasinoDropNukeTruckPlayer0
+"Player 1 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:CasinoDropNukeTruckPlayer1
+"Player 2 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:CasinoDropNukeTruckPlayer2
+"Player 3 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:CasinoDropNukeTruckPlayer3
+"Player 4 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:CasinoDropNukeTruckPlayer4
+"Player 5 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:CasinoDropNukeTruckPlayer5
+"Player 6 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:CasinoDropNukeMigsPlayer0
+"Player 1 has won Nuke MiGs!"
+END
+
+SCRIPT:CasinoDropNukeMigsPlayer1
+"Player 2 has won Nuke MiGs!"
+END
+
+SCRIPT:CasinoDropNukeMigsPlayer2
+"Player 3 has won Nuke MiGs!"
+END
+
+SCRIPT:CasinoDropNukeMigsPlayer3
+"Player 4 has won Nuke MiGs!"
+END
+
+SCRIPT:CasinoDropNukeMigsPlayer4
+"Player 5 has won Nuke MiGs!"
+END
+
+SCRIPT:CasinoDropNukeMigsPlayer5
+"Player 6 has won Nuke MiGs!"
+END
+
+SCRIPT:CasinoDropLotusAndHackersPlayer0
+"Player 1 has won Lotus and Hackers!"
+END
+
+SCRIPT:CasinoDropLotusAndHackersPlayer1
+"Player 2 has won Lotus and Hackers!"
+END
+
+SCRIPT:CasinoDropLotusAndHackersPlayer2
+"Player 3 has won Lotus and Hackers!"
+END
+
+SCRIPT:CasinoDropLotusAndHackersPlayer3
+"Player 4 has won Lotus and Hackers!"
+END
+
+SCRIPT:CasinoDropLotusAndHackersPlayer4
+"Player 5 has won Lotus and Hackers!"
+END
+
+SCRIPT:CasinoDropLotusAndHackersPlayer5
+"Player 6 has won Lotus and Hackers!"
+END
+
+SCRIPT:CasinoDrop10000Player0
+"Player 1 has won 10000$!"
+END
+
+SCRIPT:CasinoDrop10000Player1
+"Player 2 has won 10000$!"
+END
+
+SCRIPT:CasinoDrop10000Player2
+"Player 3 has won 10000$!"
+END
+
+SCRIPT:CasinoDrop10000Player3
+"Player 4 has won 10000$!"
+END
+
+SCRIPT:CasinoDrop10000Player4
+"Player 5 has won 10000$!"
+END
+
+SCRIPT:CasinoDrop10000Player5
+"Player 6 has won 10000$!"
+END
+
+SCRIPT:CasinoDropDemoScudsPlayer0
+"Player 1 has won Demo Scuds!"
+END
+
+SCRIPT:CasinoDropDemoScudsPlayer1
+"Player 2 has won Demo Scuds!"
+END
+
+SCRIPT:CasinoDropDemoScudsPlayer2
+"Player 3 has won Demo Scuds!"
+END
+
+SCRIPT:CasinoDropDemoScudsPlayer3
+"Player 4 has won Demo Scuds!"
+END
+
+SCRIPT:CasinoDropDemoScudsPlayer4
+"Player 5 has won Demo Scuds!"
+END
+
+SCRIPT:CasinoDropDemoScudsPlayer5
+"Player 6 has won Demo Scuds!"
+END
+
+SCRIPT:CasinoDropNukeCannonsPlayer0
+"Player 1 has won Nuke Cannons!"
+END
+
+SCRIPT:CasinoDropNukeCannonsPlayer1
+"Player 2 has won Nuke Cannons!"
+END
+
+SCRIPT:CasinoDropNukeCannonsPlayer2
+"Player 3 has won Nuke Cannons!"
+END
+
+SCRIPT:CasinoDropNukeCannonsPlayer3
+"Player 4 has won Nuke Cannons!"
+END
+
+SCRIPT:CasinoDropNukeCannonsPlayer4
+"Player 5 has won Nuke Cannons!"
+END
+
+SCRIPT:CasinoDropNukeCannonsPlayer5
+"Player 6 has won Nuke Cannons!"
+END
+
+SCRIPT:CasinoDropCombatChinookPlayer0
+"Player 1 has won Combat Chinook!"
+END
+
+SCRIPT:CasinoDropCombatChinookPlayer1
+"Player 2 has won Combat Chinook!"
+END
+
+SCRIPT:CasinoDropCombatChinookPlayer2
+"Player 3 has won Combat Chinook!"
+END
+
+SCRIPT:CasinoDropCombatChinookPlayer3
+"Player 4 has won Combat Chinook!"
+END
+
+SCRIPT:CasinoDropCombatChinookPlayer4
+"Player 5 has won Combat Chinook!"
+END
+
+SCRIPT:CasinoDropCombatChinookPlayer5
+"Player 6 has won Combat Chinook!"
+END
+
+SCRIPT:CasinoDropAuroraPlayer0
+"PLAYER 1 HAS WON AURORA!"
+END
+
+SCRIPT:CasinoDropAuroraPlayer1
+"PLAYER 2 HAS WON AURORA!"
+END
+
+SCRIPT:CasinoDropAuroraPlayer2
+"PLAYER 3 HAS WON AURORA!"
+END
+
+SCRIPT:CasinoDropAuroraPlayer3
+"PLAYER 4 HAS WON AURORA!"
+END
+
+SCRIPT:CasinoDropAuroraPlayer4
+"PLAYER 5 HAS WON AURORA!"
+END
+
+SCRIPT:CasinoDropAuroraPlayer5
+"PLAYER 6 HAS WON AURORA!"
+END
+
+SCRIPT:CasinoDropSuperJarmenPlayer0
+"PLAYER 1 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:CasinoDropSuperJarmenPlayer1
+"PLAYER 2 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:CasinoDropSuperJarmenPlayer2
+"PLAYER 3 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:CasinoDropSuperJarmenPlayer3
+"PLAYER 4 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:CasinoDropSuperJarmenPlayer4
+"PLAYER 5 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:CasinoDropSuperJarmenPlayer5
+"PLAYER 6 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:CasinoDropDossBoiserPlayer0
+"PLAYER 1 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:CasinoDropDossBoiserPlayer1
+"PLAYER 2 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:CasinoDropDossBoiserPlayer2
+"PLAYER 3 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:CasinoDropDossBoiserPlayer3
+"PLAYER 4 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:CasinoDropDossBoiserPlayer4
+"PLAYER 5 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:CasinoDropDossBoiserPlayer5
+"PLAYER 6 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:CasinoDropSuperStealthPlayer0
+"PLAYER 1 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:CasinoDropSuperStealthPlayer1
+"PLAYER 2 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:CasinoDropSuperStealthPlayer2
+"PLAYER 3 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:CasinoDropSuperStealthPlayer3
+"PLAYER 4 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:CasinoDropSuperStealthPlayer4
+"PLAYER 5 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:CasinoDropSuperStealthPlayer5
+"PLAYER 6 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:CasinoDrop20000Player0
+"PLAYER 1 HAS WON 20000$!"
+END
+
+SCRIPT:CasinoDrop20000Player1
+"PLAYER 2 HAS WON 20000$!"
+END
+
+SCRIPT:CasinoDrop20000Player2
+"PLAYER 3 HAS WON 20000$!"
+END
+
+SCRIPT:CasinoDrop20000Player3
+"PLAYER 4 HAS WON 20000$!"
+END
+
+SCRIPT:CasinoDrop20000Player4
+"PLAYER 5 HAS WON 20000$!"
+END
+
+SCRIPT:CasinoDrop20000Player5
+"PLAYER 6 HAS WON 20000$!"
+END
+
+SCRIPT:Secret_Intro_String
+"StaZzz Noob!!!"
+END
+
+Superweapons have been enabled!
+"Superweapons have been enabled!"
+END
+
+SCRIPT:Casino1
+"Casino 1: "
+END
+
+SCRIPT:Casino2
+"Casino 2: "
+END
+
+SCRIPT:Casino3
+"Casino 3: "
+END
+
+SCRIPT:Casino4
+"Casino 4: "
+END
+
+SCRIPT:Casino5
+"Casino 5: "
+END
+
+SCRIPT:Casino6
+"Casino 6: "
+END
+
+SCRIPT:CasinoMiddle
+"Middle Casino: "
+
+SCRIPT:OilDerick
+"Oil Derrick: "
+END
+
+SCRIPT: OilDerick
+"Oil Derrick: "
+END
+
+SCRIPT:OilDerick 
+"Oil Derrick: "
+END
+
+Secondary Economy Enabled!
+"Secondary Economy Enabled!"
+END
+
+Secondary Economy Disabled!
+"Secondary Economy Disabled!"
+END
+
+SCRIPT:Observer_Check_Failed
+"Observer detected on player slot 1-6. \n Please make sure you don't have any observers in these slots. \n Otherwise the map will not work correctly. \n Observers will not affect map's gameplay only on player spots 7-8."
+END
+
+CONTROLBAR:ToolTipUSABuildLaserPaladin
+"Paladin tank equipped with the laser gun. \n Can use Point Defense Laser against missiles and infantry at close range. \n \n Laser cannon fires twise as fast compared to Laser Crusader. \n Tank doesn't disable upon low power. \n \n Strong vs. Tanks, Buildings. \n Weak vs. Infantry, Aircraft. \n Requires Power: 1"
+END
+
+CONTROLBAR:ConstructAmericaTankLaserPaladin
+"Laser &Paladin"
+END
+
+OBJECT:LaserPaladin
+"Laser Paladin"
+END
